@@ -43,7 +43,7 @@ I will sing of the goodness of God
 [Verse 2]
             G                Cadd9              G
 I love your voice.  You have led me through the fire
-   D/F#    Em7            C             D
+   D/F#    Em7           Cadd9         D/F#
 In darkest night you are close like no other
                     Em7      Cadd9
 I’ve known you as a father
@@ -63,9 +63,11 @@ G/B                   Cadd9              D/F#          G
 With my life laid down, I’m surrendered now
   D/F#          Em7
 I give you everything
-G/B                   Cadd9                  D/F#          G
-    Your goodness is running after, it keeps running after me
- 
+G/B                   Cadd9              D/F#          G
+    Your goodness is running after, It's running after me
+
+[ Bridge ]
+
 [ Chorus ]
 
 [ Ending Chorus ]
