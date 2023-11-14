@@ -63,7 +63,6 @@ SoloVoicePart = \new Staff \with {
 
 \markup {
   \fill-line {
-    ""
     {
       \column {
         \left-align {
@@ -92,10 +91,9 @@ SoloVoicePart = \new Staff \with {
 	  "   Be lifted up, that so the King of glory enter may."
 	  "                  ---"
 	  "10 But who is he that is the King of glory? who is this?"
-	  "   The Lord of hosts, and none but he the King of glory is."
+	  "   The Lord of hosts, and none but he the King of glory is. Amen."
         }
       }
     }
-    ""
   }
 }
