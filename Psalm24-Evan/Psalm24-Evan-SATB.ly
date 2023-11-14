@@ -95,7 +95,7 @@ TBVoicePart = \new Staff \with {
   	  "   Or who within his holy place shall have a firm abode?"
 	  "                  ---"
 	  "4  Whose hands are clean, whose heart is pure, and unto vanity"
-	  "   Who hath no lifted up his soul, nor sworn deceitfully."
+	  "   Who hath not lifted up his soul, nor sworn deceitfully."
 	  "                  ---"
 	  "5  He from th'Eternal shall receive the blessing him upon,"
 	  "   And righteousness, ev'n from the God of his salvation"
