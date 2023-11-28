@@ -3,19 +3,21 @@ The Love of God (Blue Hymnal #111)
 
 Words & Music: Frederick M. Lehman
 
+[ NO CAPO ]
+
 [ Chords ]
 
-  D             A             G             Bm
-  ===========   ===========   ===========   ===========
-  | | | | | |   | | | | | |   | | | | | |   | | | | | |
-  X | | O | O   | | O O O |   O | | | O O   O O | | | O
-  | | | | O |   | | | | | |   | O | | | |   | | | | O |
-  | | | | | |   | | | | | |   | | | | | |   | | O O | |
+  D             A             G
+  ===========   ===========   ===========
+  | | | | | |   | | | | | |   | | | | | |
+  X | | O | O   | | O O O |   O | | | O O
+  | | | | O |   | | | | | |   | O | | | |
+  | | | | | |   | | | | | |   | | | | | |
 
 
 [ Intro ]
 
-| D  | A  D | D  | A  D |
+| G  | D  | A  | D  |
 
 [ Verse 1 ]
 
@@ -33,7 +35,7 @@ His err-ing child, He rec-on-ciled       And par-doned from his sin.
 
            G                 D                        A        D
 Oh love of God, how rich and pure,       How meas-ure-less and strong
-             G             Bm                            A        D
+             G             D                             A        D
 It shall for-e-ver-more en-dure,         The saints' and ang-els' song.
 
 

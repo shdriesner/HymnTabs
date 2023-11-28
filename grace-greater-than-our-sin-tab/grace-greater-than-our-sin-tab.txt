@@ -4,6 +4,8 @@ Grace Greater than our Sin (Blue Hymnal #105)
 Words: Julia H. Johnston
 Music: Daniel B. Towner
 
+[ NO CAPO ]
+
 [ Chords ]
 
   D             A             Bm            G
@@ -16,21 +18,21 @@ Music: Daniel B. Towner
  
 [ Verse 1 ]
 
-D           A            D
+G           D            G
 Mar-vel-ous grace of our lov-ing Lord
-A                       D
+D                       G
 Grace that ex-ceeds our sin and our guilt,
-D          A           Bm
+G          D           Em
 Yon-der on Cal-va-ry's mount out-poured
-A                            G    A   D
+D                            G    D   G
 There where the blood of the Lamb was spilt
  
  
 [ Chorus ]
 
-D             G     D      A                           G            D
+G             C9    G      D                           G
 Grace, grace, God's grace, Grace that will par-don and cleanse with-in
-D             G     D      A                           G   A   D
+G             C9    G      D                           G   D   G
 Grace, grace, God's grace, Grace that is great-er than all our sin.
  
  

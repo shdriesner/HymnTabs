@@ -6,32 +6,34 @@ Music: William B. Bradbury
 
 [ Chords ]
 
-  G             C             Em            D             Am
-  ===========   ===========   ===========   ===========   ===========
-  | | | | | |   | | | | O |   | | | | | |   | | | | | |   | | | | O |
-  | O | | | |   | | O | | |   | O O | | |   | | | O | O   | | O O | |
-  O | | | O O   | O | | | |   | | | | | |   | | | | O |   | | | | | |
-  | | | | | |   | | | | | |   | | | | | |   | | | | | |   | | | | | |
+  G             C             Em            D
+  ===========   ===========   ===========   ===========
+  | | | | | |   | | | | O |   | | | | | |   | | | | | |
+  | O | | | |   | | O | | |   | O O | | |   | | | O | O
+  O | | | O O   | O | | | |   | | | | | |   | | | | O |
+  | | | | | |   | | | | | |   | | | | | |   | | | | | |
 
+
+[ Capo 5 ]
 
 [ Intro ]
 
-|G   |C   |G  Em |Am D G |
+| G  D | C  G | G  | D G |
 
 
 [ Verse 1 ]
 
    G              C                  G                    Em       D
 He lead-eth me! O bless-ed tho't!  O words with heav'n-ly com-fort fraught!
-     G               C                 G         Em        Am   D   G
+     G               C                 G                   D        G
 What-e'er I do, wher-e'er I be, Still 'tis God's hand that lead-eth me.
 
 
 [ Refrain ]
 
-   G        D      C        G      Em              Am       D
+   G        D      C        G                      Em       D
 He lead-eth me, He lead-eth me, By His own hand He lead-eth me;
-    G         D         C       G       Em             Am   D   G
+    G         D         C       G                      D        G
 His faith-ful fol-l'wer I would be, For by His hand He lead-eth me.
 
 
@@ -39,7 +41,7 @@ His faith-ful fol-l'wer I would be, For by His hand He lead-eth me.
 
      G                    C                    G                   Em      D
 Some-times 'mid scenes of deep-est gloom, Some-times where E-den's bow-ers bloom,
-   G                  C                     G       Em        Am   D   G
+   G                  C                     G                 D        G
 By wa-ters calm, o'er trou-bled sea, still 'tis Thy hand that lead-eth me!
 
 
@@ -50,7 +52,7 @@ By wa-ters calm, o'er trou-bled sea, still 'tis Thy hand that lead-eth me!
 
       G                 C                 G             Em     D
 Lord, I would clasp Thy hand in mine, Nor ev-er mur-mur nor re-pine,
-    G                C                 G       Em        Am   D   G
+    G                C                 G                 D        G
 Con-tent, what-ev-er lot I see, Since 'tis Thy hand that lead-eth me!
 
 
@@ -61,7 +63,7 @@ Con-tent, what-ev-er lot I see, Since 'tis Thy hand that lead-eth me!
 
     G               C                   G                 Em         D
 And when my task on earth is done, When by Thy grace, the vic-t'ry's won,
-     G                   C                    G         Em      Am   D   G
+     G                   C                    G                 D        G
 E'en death's cold wave I will not flee, Since God thru' Jor-dan lead-eth me!
 
 
