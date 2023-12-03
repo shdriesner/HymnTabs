@@ -3,51 +3,51 @@ The Love of God (Blue Hymnal #111)
 
 Words & Music: Frederick M. Lehman
 
-[ NO CAPO ]
+[ CAPO 5 ]
 
 [ Chords ]
 
-  D             A             G
+  C9            G             D
   ===========   ===========   ===========
   | | | | | |   | | | | | |   | | | | | |
-  X | | O | O   | | O O O |   O | | | O O
-  | | | | O |   | | | | | |   | O | | | |
+  | O | | O O   O | | | O O   X | | O | O
+  | | O | | |   | O | | | |   | | | | O |
   | | | | | |   | | | | | |   | | | | | |
 
 
 [ Intro ]
 
-| G  | D  | A  | D  |
+| C9  | G  | D  | G  |
 
 [ Verse 1 ]
 
-D                                                       A            D
+G                                                       D            G
 The love of God is great-er far          Than tongue or pen can ever tell;
-            D                                         A              D
+            G                                         D              G
 It goes bey-ond the high-est star        And reach-es to the low-est hell;
-            G                     D                   A      D
+            C9                    G                   D      G
 The guilt-y pair, bowed down with care,  God gave His Son to win;
-            G                D                         A        D
+            C9               G                         D        G
 His err-ing child, He rec-on-ciled       And par-doned from his sin.
 
 
 [ Chorus ]
 
-           G                 D                        A        D
+           C9                G                        D        G
 Oh love of God, how rich and pure,       How meas-ure-less and strong
-             G             D                             A        D
+             C9            G                             D        G
 It shall for-e-ver-more en-dure,         The saints' and ang-els' song.
 
 
 [ Verse 2 ]
 
-              D                                       A                     D
+              G                                       D                     G
 When years of time shall pass a-way      And earth-ly thrones and king-doms fall,
-             D                                        A                    D
+             G                                        D                    G
 When men who here re-fuse to pray,       On rocks and hills and moun-tains call,
-              G                   D                   A        D
+              C9                  G                   D        G
 God's love so sure shall still en-dure,  All mea-sure-less and strong;
-            G                D                          A        D
+            C9               G                          D        G
 Re-deem-ing grace to Ad-am's race-       The saints and an-gels' song.
 
 
@@ -56,13 +56,13 @@ Re-deem-ing grace to Ad-am's race-       The saints and an-gels' song.
 
 [ Verse 3 ]
 
-              D                                       A                    D
+              G                                       D                    G
 Could we with ink, the o-cean fill,      And were the skies, of parch-ment made,
-            D                                       A                D
+            G                                       D                G
 Were ev-'ry stalk on earth a quill,      And ev-'ry man, a scribe by trade,
-             G             D                             A      D
+             C9            G                             D      G
 To write the love of God a-bove          Would drain the o-cean dry;
-              G                   D                          A      D
+              C9                  G                          D      G
 Nor could the scroll con-tain the whole, Tho' stretched from sky to sky.
 
 
