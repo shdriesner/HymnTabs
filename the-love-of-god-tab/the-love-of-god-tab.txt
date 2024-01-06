@@ -7,12 +7,12 @@ Words & Music: Frederick M. Lehman
 
 [ Chords ]
 
-  C9            G             D
-  ===========   ===========   ===========
-  | | | | | |   | | | | | |   | | | | | |
-  | O | | O O   O | | | O O   X | | O | O
-  | | O | | |   | O | | | |   | | | | O |
-  | | | | | |   | | | | | |   | | | | | |
+  C9       G        D
+  ======   ======   ======
+  ||||||   ||||||   ||||||
+  |O||OO   O|||OO   X||O|O
+  ||O|||   |O||||   ||||O|
+  ||||||   ||||||   ||||||
 
 
 [ Intro ]
@@ -30,14 +30,12 @@ The guilt-y pair, bowed down with care,  God gave His Son to win;
             C9               G                         D        G
 His err-ing child, He rec-on-ciled       And par-doned from his sin.
 
-
 [ Chorus ]
 
            C9                G                        D        G
 Oh love of God, how rich and pure,       How meas-ure-less and strong
              C9            G                             D        G
 It shall for-e-ver-more en-dure,         The saints' and ang-els' song.
-
 
 [ Verse 2 ]
 
@@ -50,9 +48,7 @@ God's love so sure shall still en-dure,  All mea-sure-less and strong;
             C9               G                          D        G
 Re-deem-ing grace to Ad-am's race-       The saints and an-gels' song.
 
-
 [ Chorus ]
-
 
 [ Verse 3 ]
 
@@ -64,6 +60,5 @@ Were ev-'ry stalk on earth a quill,      And ev-'ry man, a scribe by trade,
 To write the love of God a-bove          Would drain the o-cean dry;
               C9                  G                          D      G
 Nor could the scroll con-tain the whole, Tho' stretched from sky to sky.
-
 
 [ Chorus ]

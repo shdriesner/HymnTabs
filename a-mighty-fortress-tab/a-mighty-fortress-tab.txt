@@ -2,53 +2,55 @@ A Mighty Fortress Is Our God (Blue Hymnal, #656)
 ================================================
 Public Domain. Words and music: Martin Luther.
 
-Capo 3 (Bb) or 5 (C)
+[ CAPO 3 (Bb) or CAPO 5 (C) ]
 
-   G         D         Em A   D    Em             G      C  D G
-1. A might-y fort-ress is our God,    A  bul-wark ne-ver fail-ing;
+[ Chords ]
 
-   G           D     Em  A   D       Em            G        C  D G
-   Our help-er He, a-mid the flood      Of mor-tal ills pre-vail-ing;
-
-       Em        A        D        G       C       Em
-   For still our an-cient foe doth seek to work us woe;
-
-       Em        A         D           Em         Am     B
-   His craft and power are great, and, armed with cru-el hate,
- 
-   Em             G       C D G
-      On earth is not his e---qual.
+G       D       Em      A       C       Am      B
+======  ======  ======  ======  ======  ======  ======
+||||||  ||||||  ||||||  ||||||  ||||||  ||||O|  ||||||
+O|||OO  X||O|O  |OO|||  ||OOO|  |O||OO  ||OO||  OO|||O
+|O||||  ||||O|  ||||||  ||||||  ||O|||  ||||||  ||||||
+||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||OOO|
 
 
+[ INTRO ]
 
-2. Did we in our own strength confide, Our striving would be losing
+| Em G  | C D G  |
 
-   Were not the right Man on our side, The Man of God’s own choosing:
-   
-   Dost ask who that may be? Christ Jesus, it is He;
-   
-   Lord Sabbaoth, His name, from age to age the same,
-   
-   And He must win the battle.
+[ VERSE 1 ]
 
+G           D         Em A   D        Em       G      C   D G
+  A might-y fort-ress is our God,  A  bul-wark ne-ver fai---ling;
+G             D     Em  A   D         Em      G        C   D G
+  Our help-er He, a-mid the flood  Of mor-tal ills pre-vai---ling;
+    Em        A        D        G       C       Em
+For still our an-cient foe doth seek to work us woe;
+    Em        A         D           Em         Am     B
+His craft and power are great, and, armed with cru-el hate,
+Em             G       C D G
+   On earth is not his e---qual.
 
-3. And though this world, with devils filled, Should threaten to undo us,
+[ VERSE 2 ]
 
-   We will not fear, for God hath willed His truth to triumph through us:
-   
-   The Prince of Darkness grim, we tremble not for him;
-   
-   His rage we can endure, for lo, his doom is sure,
-   
-   One little word shall fell him.
+Did we in our own strength confide, Our striving would be losing
+Were not the right Man on our side, The Man of God’s own choosing:
+Dost ask who that may be? Christ Jesus, it is He;
+Lord Sabbaoth, His name, from age to age the same,
+And He must win the battle.
 
+[ VERSE 3 ]
 
-4. That word above all earthly powers, No thanks to them, abideth;
+And though this world, with devils filled, Should threaten to undo us,
+We will not fear, for God hath willed His truth to triumph through us:
+The Prince of Darkness grim, we tremble not for him;
+His rage we can endure, for lo, his doom is sure,
+One little word shall fell him.
 
-   The Spirit and the gifts are ours Through Him Who with us sideth;
-   
-   Let goods and kindred go, this mortal life also;
-   
-   The body they may kill: God’s truth abideth still,
-   
-   His kingdom is forever.
+[ VERSE 4 ]
+
+That word above all earthly powers, No thanks to them, abideth;
+The Spirit and the gifts are ours Through Him Who with us sideth;
+Let goods and kindred go, this mortal life also;
+The body they may kill: God’s truth abideth still,
+His kingdom is forever.
