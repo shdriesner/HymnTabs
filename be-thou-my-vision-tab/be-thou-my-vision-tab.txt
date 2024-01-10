@@ -4,7 +4,7 @@ Be Thou My Vision (Blue Hymnal, #83)
 Words: Ancient Irish
 Music: Trad. Irish Melody
 
-[ CAPO ?? ]
+[ NO CAPO ]
 
 [ CHORDS ]
 
@@ -22,19 +22,19 @@ X||O|O  OO|||O  O|||OO  ||OOO|
 
 [ VERSE 1 ]
 D          Bm         G          D
-Be Thou my vis-ion, O Lord of my heart
+Be Thou my vis-ion, O Lord of my heart;
 A                         G              A
-Naught be all else to me, save that Thou art
+Naught be all else to me, save that Thou art:
 Bm           G           D         G   A
-Thou my best thought, by day or by night
+Thou my best thought, by day or by night,
 D          Bm             G            D
 Wak-ing or sleep-ing, Thy pres-ence my light.
  
 [ VERSE 2 ]
 
-Be Thou my wis-dom, and Thou my true word
-I ev-er with Thee, and Thou with me, Lord
-Thou my great Fath-er, and I Thy true son;
+Be Thou my Wis-dom, and Thou my true Word;
+I ev-er with Thee, and Thou with me, Lord:
+Thou my great Fath-er, I Thy true son,
 Thou in me dwell-ing, and I with Thee one.
   
 [ VERSE 3 ]
@@ -46,7 +46,7 @@ High King of heav-en, my trea-sure Thou art.
  
 [ VERSE 4 ]
 
-High King of heaven, my vict’ry won,
-May I reach heav-en's joys, O bright heaven's Sun!
+High King of heaven, my vic-to-ry won,
+May I reach heav-en's joys, O bright heav'n's Sun!
 Heart of my own heart, whatever befall,
 Still be my vis-ion, O Rul-er of all.
