@@ -95,7 +95,7 @@ TBVoicePart = \new Staff \with {
       \column {
         \left-align {
   	  "2  That I thy pow-er may be-hold, and bright-ness of thy face,"
-	  "   As i have seen thee here-to-fore with-in thy ho-ly place."
+	  "   As I have seen thee here-to-fore with-in thy ho-ly place."
 	  "                  ---"
 	  "3  Since bet-ter is thy love than life, my lips thee praise shall give."
   	  "4  I in thy name will lift my hands, and bless thee while I live."
