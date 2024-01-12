@@ -12,7 +12,7 @@ all: $(PDF) $(MID)
 	@lilypond $(LY) 2>&1 | tee $(LOG)
 
 clean:
-	-rm -f $(PDF} $(MID}
+	-rm -f $(PDF) $(MID)
 
 $(PDF): $(LY)
 

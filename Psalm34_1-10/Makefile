@@ -20,7 +20,7 @@ all: $(SONG_PDF) $(SONG_MID) $(SOLO_PDF) $(SOLO_MID)
 	@lilypond $(SOLO_LY) 2>&1 | tee $(SOLO_LOG)
 
 clean:
-	-rm -f $(SONG_PDF} $(SONG_MID} $(SOLO_PDF} $(SOLO_MID}
+	-rm -f $(SONG_PDF) $(SONG_MID) $(SOLO_PDF) $(SOLO_MID)
 
 $(SONG_PDF): $(SONG_LY)
 
