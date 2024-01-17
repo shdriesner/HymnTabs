@@ -5,7 +5,7 @@ Words & Music: Frederick M. Lehman
 
 [ CAPO 5 ]
 
-[ Chords ]
+[ CHORDS ]
 
   C9       G        D
   ======   ======   ======
@@ -15,13 +15,11 @@ Words & Music: Frederick M. Lehman
   ||||||   ||||||   ||||||
 
 
-[ Intro ]
-
+[ INTRO ]
 | C9  | G  | D  | G  |
 
-[ Verse 1 ]
-
-G                                                       D            G
+[ VERSE 1 ]
+            G                                           D            G
 The love of God is great-er far          Than tongue or pen can ever tell;
             G                                         D              G
 It goes bey-ond the high-est star        And reach-es to the low-est hell;
@@ -30,35 +28,24 @@ The guilt-y pair, bowed down with care,  God gave His Son to win;
             C9               G                         D        G
 His err-ing child, He rec-on-ciled       And par-doned from his sin.
 
-[ Chorus ]
-
+[ CHORUS ]
            C9                G                        D        G
 Oh love of God, how rich and pure,       How meas-ure-less and strong
              C9            G                             D        G
 It shall for-e-ver-more en-dure,         The saints' and ang-els' song.
 
-[ Verse 2 ]
-
-              G                                       D                     G
+[ VERSE 2 ]
 When years of time shall pass a-way      And earth-ly thrones and king-doms fall,
-             G                                        D                    G
 When men who here re-fuse to pray,       On rocks and hills and moun-tains call,
-              C9                  G                   D        G
 God's love so sure shall still en-dure,  All mea-sure-less and strong;
-            C9               G                          D        G
 Re-deem-ing grace to Ad-am's race-       The saints and an-gels' song.
 
-[ Chorus ]
+[ CHORUS ]
 
-[ Verse 3 ]
-
-              G                                       D                    G
+[ VERSE 3 ]
 Could we with ink, the o-cean fill,      And were the skies, of parch-ment made,
-            G                                       D                G
 Were ev-'ry stalk on earth a quill,      And ev-'ry man, a scribe by trade,
-             C9            G                             D      G
 To write the love of God a-bove          Would drain the o-cean dry;
-              C9                  G                          D      G
 Nor could the scroll con-tain the whole, Tho' stretched from sky to sky.
 
-[ Chorus ]
+[ CHORUS ]

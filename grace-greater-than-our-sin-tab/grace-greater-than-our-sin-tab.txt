@@ -6,17 +6,16 @@ Music: Daniel B. Towner
 
 [ NO CAPO ]
 
-[ Chords ]
+[ CHORDS ]
 
-  D             A             Bm            G
-  ===========   ===========   ===========   ===========
-  | | | | | |   | | | | | |   | | | | | |   | | | | | |
-  X | | O | O   | | O O O |   O O | | | O   O | | | O O
-  | | | | O |   | | | | | |   | | | | O |   | O | | | |
-  | | | | | |   | | | | | |   | | O O | |   | | | | | |
+  G        D        Em       C9
+  ======   ======   ======   ======
+  ||||||   ||||||   ||||||   ||||||
+  O|||OO   |||O|O   |OO|||   |O||OO
+  |O||||   ||||O|   ||||||   ||O|||
+  ||||||   ||||||   ||||||   ||||||
 
- 
-[ Verse 1 ]
+[ VERSE 1 ]
 
 G           D            G
 Mar-vel-ous grace of our lov-ing Lord
@@ -27,32 +26,27 @@ Yon-der on Cal-va-ry's mount out-poured
 D                            G    D   G
 There where the blood of the Lamb was spilt
  
- 
-[ Chorus ]
+[ CHORUS ]
 
 G             C9    G      D                           G
 Grace, grace, God's grace, Grace that will par-don and cleanse with-in
 G             C9    G      D                           G   D   G
 Grace, grace, God's grace, Grace that is great-er than all our sin.
  
- 
-[ Verse 2 ]
+[ VERSE 2 ]
 
 Dark is the stain that we can-not hide,
 What can a-vail to wash it a-way?
 Look! There is flowing a crim-son tide;
 Whit-er than snow you may be to-day.
  
- 
-[ Chorus ]
- 
- 
-[ Verse 3 ]
+[ CHORUS ]
+
+[ VERSE 3 ]
 
 Mar-vel-ous, in-fi-nite, match-less grace,
 Free-ly be-stowed on all who be-lieve
 You that are long-ing to see His Face
 Will you this mo-ment His Grace re-ceive?
  
- 
-[ Chorus ]
+[ CHORUS ]
