@@ -116,7 +116,7 @@ TBVoicePart = \new Staff \with {
 	  "   The bow he breaks, the spear he cuts, in fire the char-iot burns."
 	  "                  ---"
 	  "10 Be still, and know that I am God; a-mong the heath-en I"
-	  "   Wil be ex-alt-ed; I on earth will be ex-alt-ed high."
+	  "   Will be ex-alt-ed; I on earth will be ex-alt-ed high."
 	  "                  ---"
 	  "11 Our God, who is the Lord of hosts, is still upon our side;"
 	  "   The God of Ja-cob our re-fuge for e-ver will a-bide."
