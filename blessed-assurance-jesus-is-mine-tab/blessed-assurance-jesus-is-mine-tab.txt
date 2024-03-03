@@ -4,38 +4,42 @@ Blessed Assurance, Jesus is Mine (Blue Hymnal #446)
 Words by: Fanny J. Crosby
 Music: Phoebe Palmer Knapp
 
-[ CAPO 3 ]
+[ CAPO 5 ]
 
 [ CHORDS ]
 
-  A       D       E       B       Bm      B7      E7
+  G       C9      D       A       Am      A7      D7
   ======  ======  ======  ======  ======  ======  ======
-  ||||||  ||||||  |||O||  ||||||  ||||||  ||O|||  |||O||
-  ||OOO|  |||O|O  |OO|||  OO|||O  OO|||O  xO|O|O  |O||||
-  ||||||  ||||O|  ||||||  ||||||  ||||O|  ||||||  ||||||
-  ||||||  ||||||  ||||||  ||OOO|  ||OO||  ||||||  ||||||
+  ||||||  ||||||  ||||||  ||||||  ||||O|  ||||||  ||||O|
+  O|||OO  |O||OO  x||O|O  ||OOO|  ||OO||  ||O|O|  x||O|O
+  |O||||  ||O|||  ||||O|  ||||||  ||||||  ||||||  ||||||
+  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
 
 [ INTRO ]
 
-| Bm E  | A  |
+| Am D  | G  |
 
 [ VERSE 1 ]
 
-            A         D         A
+            G         C9        G
 Bless-ed as-sur-ance, Je-sus is mine!
-           D    E        B      E
+           C9   D        A      D
 Oh, what a fore-taste of glo-ry di-vine!
-            A        D             A
+            G        C9            G
 Heir of sal-va-tion, pur-chased of God,
-            D    Bm  E             A
+            C9   Am  D             G
 Born of His Spir-it, washed in His blood.
 
 [ CHORUS ]
 
-           A       D          A                   D   A   B7          E
-This is my sto-ry, this is my song.  Prais-ing my Sav-ior all the day long;
-E7         A       D          A                   Bm      E           A
-This is my sto-ry, this is my song.  Prais-ing my Sav-ior all the day long;
+           G       C9         G
+This is my sto-ry, this is my song.
+             C9  G   A7          D
+Prais-ing my Sav-ior all the day long;
+D7         G       C9         G
+This is my sto-ry, this is my song.
+             Am      D           G
+Prais-ing my Sav-ior all the day long;
 
 [ VERSE 2 ]
 
