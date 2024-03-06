@@ -6,21 +6,20 @@ Music: Henri A. C. Malan
 
 [ CAPO 3 ]
 
-[ Chords ]
+[ CHORDS ]
 
-  D             Em            A             G
-  ===========   ===========   ===========   ===========
-  | | | | | |   | | | | | |   | | | | | |   | | | | | |
-  X | | O | O   | O O | | |   | | O O O |   O | | | O O
-  | | | | O |   | | | | | |   | | | | | |   | O | | | |
-  | | | | | |   | | | | | |   | | | | | |   | | | | | |
+  D        Em       A        G
+  ======   ======   ======   ======
+  ||||||   ||||||   ||||||   ||||||
+  X||O|O   |OO|||   ||OOO|   O|||OO
+  ||||O|   ||||||   ||||||   |O||||
+  ||||||   ||||||   ||||||   ||||||
 
-
-[ Intro ]
+[ INTRO ]
 
 | D Em  | A D  |
 
-[ Verse 1 ]
+[ VERSE 1 ]
 
 D                          D      Em      A        D
 Take my life and let it be con-se-crat-ed Lord, to Thee;
@@ -29,22 +28,21 @@ Take my hands and let them move at the im-pulse of Thy love,
 D      Em       A      D
 At the im-pulse of Thy love.
 
-
-[ Verse 2 ]
+[ VERSE 2 ]
 
 Take my feet and let them be swift and beau-ti-ful for Thee;
 Take my voice and let me sing al-ways, on-ly, for my King, 
 Al-ways, on-ly, for my King.
 
 
-[ Verse 3 ]
+[ VERSE 3 ]
 
 Take my sil-ver and my gold, not a mite would I with-hold;
 Take my mo-ments and my days, let them flow in cease-less praise,
 Let them flow in cease-less praise.
 
 
-[ Verse 4 ]
+[ VERSE 4 ]
 
 Take my will and make it Thine, it shall be no long-er mine;
 Take my heart, it is Thine own, it shall be Thy roy-al throne,
