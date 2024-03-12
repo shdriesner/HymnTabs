@@ -4,28 +4,26 @@ Isaiah 6:3 (Blue Hymnal #69)
 Words: Mary A. Lathbury, from Isaiah 6:3
 Music: William F. Sherwin
 
-[ CAPO ?? ]
+[ CAPO 3 ]
 
-[ CHORDS ??? ]
-
-  D        Em       A        G
+[ CHORDS ]
+  D        G        A        E
   ======   ======   ======   ======
-  ||||||   ||||||   ||||||   ||||||
-  X||O|O   |OO|||   ||OOO|   O|||OO
-  ||||O|   ||||||   ||||||   |O||||
+  ||||||   ||||||   ||||||   |||O||
+  X||O|O   O|||OO   ||OOO|   |OO|||
+  ||||O|   |O||||   ||||||   ||||||
   ||||||   ||||||   ||||||   ||||||
 
 [ INTRO ]
 
-| ???  | ???  |
+| G D A | D  |
 
 [ VERSE ]
-
+D                 D    G   A  D
 Holy, holy, holy, Lord God of Hosts!
-
+D                    A       D
 Heav'n and earth are full of Thee!
-
+E                A   D
 Heav'n and earth are prais-ing Thee,
-
+G D    A    D
 O Lord most high!
-
