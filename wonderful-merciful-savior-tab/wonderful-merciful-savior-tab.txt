@@ -17,15 +17,15 @@ Music: Dawn Rodgers
 
 [ INTRO ]
 
-| C  | G D  | G |
+| C9 | G D  | G |
 
 [ VERSE 1 ]
 
 G            C9         G                     C9         Dsus D
 Won-der-ful, Mer-ci-ful Sav-ior, Pre-cious Re-deemer and Friend;
-Em                            C          G           D        Em
+Em                            C9         G           D        Em
 Who would have thought that a Lamb could res-cue the souls of men,
-C      G           D        G
+C9     G           D        G
 Oh You res-cue the souls of men
  
 [ VERSE 2 ]
@@ -36,11 +36,11 @@ Oh we hope-less-ly lost the way.
  
 [ CHORUS ]
 
-Em                      C  D    Em                   C  D
+Em                      C9 D    Em                   C9 D
 You are the One that we praise, You are the One we a-dore.
-Em                        C         G              D       Em
+Em                        C9        G              D       Em
 You give the heal-ing and grace our hearts al-ways hung-er for
-C      G              D       G
+C9     G              D       G
 Oh our hearts a-lways hung-er for
  
 [ VERSE 3 ]
