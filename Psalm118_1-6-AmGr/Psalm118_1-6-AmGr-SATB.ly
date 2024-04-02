@@ -104,7 +104,7 @@ TBVoicePart = \new Staff \with {
   	  "   He in a large place did me set,"
   	  "     from trou-ble made me free."
 	  "                  ---"
-	  "6  The migh-ty Lord is in my side,"
+	  "6  The migh-ty Lord is on my side,"
   	  "     I will not be a-fraid;"
   	  "   For an-y thing that man can do"
   	  "     I shall not be dis-may'd."
