@@ -4,14 +4,6 @@ Words & Music: Jonny Robinson | Michael Farren |
       	       Nigel Hendroff | Rich Thompson  |
 	       Scott Lavender
 
-[ CHORDS ]
-D       G       Bm7     A       Dsus    Asus    Em      Bm
-======  ======  ======  ======  ======  ======  ======  ======
-||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
-X||O|O  O|||OO  OO|O|O  ||OOO|  |||O||  ||OO||  |OO|OO  OO|||O
-||||O|  |O||||  ||||O|  ||||||  ||||OO  ||||O|  ||||||  ||||O|
-||||||  ||||||  ||O|||  ||||||  ||||||  ||||||  ||||||  ||OO||
-
 [ CAPO 1 ]
 
 [ INTRO / TURNAROUND ] X 2
@@ -30,11 +22,11 @@ I know on that final day I’ll rise as Jesus rose
 [ CHORUS ]
         D                             G              D
 On that day  We will see You shin-ing bright-er than the sun
-        Bm7                         G                 Asus
+A       Bm7                         G                 Asus
 On that day  We will know You as we lift our voice as one
           G            D                   G      A       Bm
 'Til that day  We will praise You for Your nev-er end-ing grace
-            G       D                Asus A    D
+            G       D                A         D
 And we will keep on sing-ing on that glor-ious day
 
 [ TURNAROUND ]
@@ -48,7 +40,7 @@ For we know our crown of glo-ry waits be-yond the grave
 [ CHORUS + TURNAROUND ]
 
 [ BRIDGE ] X 2
-      G              D           Asus A
+      G  D           A           D
 Halle-lu-jah, what a day it will be
        G                 D          Asus  A
 For at home with You, my joy is com-plete
@@ -68,3 +60,12 @@ My Fa-ther, who is wait-ing for me
 And we will keep on sing-ing on that glor-ious day
 
 [ TURNAROUND ] X 2
+
+[ CHORDS ]
+D       G       Bm7     A       Dsus    Asus    Em      Bm
+======  ======  ======  ======  ======  ======  ======  ======
+||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
+X||O|O  O|||OO  OO|O|O  ||OOO|  |||O||  ||OO||  |OO|OO  OO|||O
+||||O|  |O||||  ||||O|  ||||||  ||||OO  ||||O|  ||||||  ||||O|
+||||||  ||||||  ||O|||  ||||||  ||||||  ||||||  ||||||  ||OO||
+
