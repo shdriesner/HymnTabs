@@ -95,7 +95,7 @@ TBVoicePart = \new Staff \with {
       \column {
         \left-align {
   	  "   Though hills a-midst the seas be cast;"
-	  "     though wat-ers roar-ing make,"
+	  "3    Though wat-ers roar-ing make,"
 	  "   And troub-led be; yea though the hills"
 	  "     by swell-ing seas do shake."
 	  "                  ---"
