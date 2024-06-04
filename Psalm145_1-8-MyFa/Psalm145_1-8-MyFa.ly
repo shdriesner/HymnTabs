@@ -37,6 +37,33 @@ versesVoice = \lyricmode {
 % C9 major ^\markup { \fret-diagram "6-o;5-3;4-2;3-o;2-3;1-3;" }
 % D major  ^\markup { \fret-diagram "6-x;5-o;4-o;3-2;2-3;1-2;" }
 
+MelodyVoice = \relative c {
+  \global
+  \dynamicUp
+  % Music follows here.
+  {
+    r2 <d >4 |
+    % Verse 1
+    <d  >8  <e  >8  <d  >4  <g  >4  |
+    <fs >8  <e  >8  <e  >4  <e  >4  |
+    <c' >8  <a  >8  <g  >4  <fs >4  |
+    <g  >2                  <d  >4  |
+    <d  >8  <e  >8  <d  >4  <g  >4  |
+    <fs >8  <e  >8  <e  >4  <e  >4  |
+    <c' >8  <a  >8  <g  >4  <fs >4  |
+    <g  >2                  <d  >4  |
+    <g  >8  <b  >8  <d  >4  <b  >4  |
+    <b  >8  <a  >8  <a  >4  <b  >4  |
+    <g  >8  <fs >8  <e  >4  <a  >4  |
+    <g  >4         (<fs >4) <d  >4  |
+    <d  >8  <e  >8  <d  >4  <g  >4  |
+    <fs >8  <e  >8  <e  >4  <e  >4  |
+    <c' >8  <a  >8  <g  >4  <fs >4  |
+    <g  >2
+    \bar "|."
+  }
+}
+
 SAVoice = \relative c {
   \global
   \dynamicUp
@@ -101,22 +128,29 @@ Chords = \new ChordNames {
   }
 }
 
-SAVoicePart = \new Staff \with {
-  instrumentName = "SA"
+MelodyVoicePart = \new Staff \with {
+  instrumentName = "Melody"
   midiInstrument = "Voice Oohs"
-} { \clef "treble_8" \SAVoice }
+} { \clef "treble_8" \MelodyVoice }
 \addlyrics { \versesVoice }
 
-TBVoicePart = \new Staff \with {
-  instrumentName = "TB"
-  midiInstrument = "Voice Oohs"
-} { \clef bass \TBVoice }
+%SAVoicePart = \new Staff \with {
+%  instrumentName = "SA"
+%  midiInstrument = "Voice Oohs"
+%} { \clef "treble_8" \SAVoice }
+%\addlyrics { \versesVoice }
+
+%TBVoicePart = \new Staff \with {
+%  instrumentName = "TB"
+%  midiInstrument = "Voice Oohs"
+%} { \clef bass \TBVoice }
 
 \score {
   <<
     \Chords
-    \SAVoicePart
-    \TBVoicePart
+    \MelodyVoicePart    
+    % \SAVoicePart
+    % \TBVoicePart
   >>
   \layout { }
   \midi {
