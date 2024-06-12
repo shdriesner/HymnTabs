@@ -7,7 +7,7 @@
 \header {
   dedication = "For Covenant Community Church and the Glory of God"
   title = "Psalm 145:1-8 -- The Psalms of David in Metre, page 300"
-  subtitle = "(tune: My Faith Has Found a Resting Place - NO CAPO)"
+  subtitle = "(tune: Landas - NO CAPO)"
   instrument = "Voice"
   composer = "Traditional"
   arranger = "Transposed. Stefan Driesner - June 2024"
