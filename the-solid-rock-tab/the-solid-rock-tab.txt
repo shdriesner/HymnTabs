@@ -1,35 +1,32 @@
 The Solid Rock (Blue Hymnal #511)
 ==================================
 
-Words: Edward Mote
-Music: William B. Bradbury
+Words: Edward Mote                Music: William B. Bradbury
 
-[ CAPO 3 ]
+[ CHORDS ]                        [ CAPO 3 ]
 
-[ CHORDS ]
+  D        A        G
+  xoo===   oo===o   ==oo==
+  ||||||   ||||||   ||||||
+  |||O|O   ||OOO|   O|||OO
+  ||||O|   ||||||   |O||||
+  ||||||   ||||||   ||||||
 
-  D             A             G
-  ===========   ===========   ===========
-  | | | | | |   | | | | | |   | | | | | |
-  X | | O | O   | | O O O |   O | | | O O
-  | | | | O |   | | | | | |   | O | | | |
-  | | | | | |   | | | | | |   | | | | | |
-
-
-[ Intro ]
+[ INTRO ]
 
 | D  | G  | D  | D A  | G  | A D  |
 
-[ Verse 1 ]
+[ VERSE 1 ]
+   D                A
+My hope is built on no-thing less
+     G                 A          D
+than Je-sus' blood and right-eous-ness
+  D                  A
+I dare not trust the sweet-est frame,
+    G               A       D
+But whol-ly lean on Je-sus' name
 
-   D                A                  G                 A          D
-My hope is built on no-thing less than Je-sus' blood and right-eous-ness
-  D                  A                    G               A       D
-I dare not trust the sweet-est frame, But whol-ly lean on Je-sus' name
-
-
-[ Chorus ]
-
+[ CHORUS ]
    D                  G
 On Christ, the sol-id rock I stand
     D                         A
@@ -37,29 +34,29 @@ All oth-er ground is sink-ing sand
     G                A        D
 All oth-er ground is sink-ing sand
 
+[ VERSE 2 ]
 
-[ Verse 2 ]
+When dark-ness seems to hide His face,
+I rest on His un-chang-ing grace;
+In ev'ry high and storm-y gale,
+my anchor holds with-in the veil. 
 
-When dark-ness seems to hide His face, I rest on His un-chang-ing grace;
-In ev'ry high and storm-y gale, my anchor holds with-in the veil. 
+[ CHORUS ]
 
+[ VERSE 3 ]
 
-[ Chorus ]
+His oath, His cov-e-nant, His blood
+Sup-port me in the whelm-ing flood;
+When all a-round my soul gives way,
+He then is all my hope and stay.
 
+[ CHORUS ]
 
-[ Verse 3 ]
+[ VERSE 4 ]
 
-His oath, His cov-e-nant, His blood sup-port me in the whelm-ing flood;
-When all a-round my soul gives way, He then is all my hope and stay.
+When He shall come with trump-et sound,
+Oh may I then in Him be found;
+Dressed in His right-eous-ness a-lone,
+Fault-less to stand be-fore the throne.
 
-
-[ Chorus ]
-
-
-[ Verse 4 ]
-
-When He shall come with trump-et sound, oh may I then in Him be found;
-Dressed in His right-eous-ness a-lone, Fault-less to stand be-fore the throne.
-
-
-[ Chorus ]
+[ CHORUS ]
