@@ -10,7 +10,7 @@
   subtitle = "(tune: Evan - capo 1)"
   instrument = "Voice"
   composer = "Traditional"
-  arranger = "Transposed. Stefan Driesner - May 2024"
+  arranger = "Transposed. Stefan Driesner - July 2024"
   meter = ""
   copyright = "Copyright 2024 - All Rights Reserved"
 }
