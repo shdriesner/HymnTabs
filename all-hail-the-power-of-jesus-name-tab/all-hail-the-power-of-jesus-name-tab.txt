@@ -4,27 +4,27 @@ All Hail the Power of Jesus' Name (Blue Hymnal #314)
 Words: Edward Perronet (vv. 1 & 2)/John Rippon (vv. 3 & 4)
 Music: Oliver Holden
 
-[ CAPO 1 ]
+[ CAPO 3 ]
 
 [ CHORDS ]
 
-G       D       Em      A       C9
-======  ======  ======  ======  ======
-||||||  ||||||  ||||||  ||||||  ||||||
-O|||OO  X||O|O  |OO|||  ||OOO|  |O||OO
-|O||||  ||||O|  ||||||  ||||||  ||O|||
-||||||  ||||||  ||||||  ||||||  ||||||
+D       A       G       Bm      E
+xoo===  oo===o  ==oo==  ======  o===oo
+||||||  ||||||  ||||||  ||||||  |||O||
+|||O|O  ||OOO|  O|||OO  OO|||O  |OO|||
+||||O|  ||||||  |O||||  ||||O|  ||||||
+||||||  ||||||  ||||||  ||OO||  ||||||
 
 [ INTRO ]
 
-| G  | D  | G C9 G D | G  |
+| D  | A  | D G D A  | D  |
 
 [ VERSE 1 ]
-    G                 D                                     G
+    D                 A                                     D
 All hail the pow'r of Je-sus' name!  Let an-gels pros-trate fall.
-      G                              G     D   Em   A   D
+      D                              D     A   Bm   E   A
 Bring forth the roy-al di-a-dem, And crown Him Lord of  all.
-      G                D             G     C9  G    D  G
+      D                A             D     G   D    A  D
 Bring forth the roy-al di-a-dem, And crown Him Lord of all.
  
 [ VERSE 2 ]

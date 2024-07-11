@@ -9,9 +9,9 @@ Music: William Runyan, 1923
 [ CHORDS ]
 
 D       G       A7      E       A       Em      B
-======  ======  ======  ======  ======  ======  ======
+xoo===  ==oo==  oo=o=o  o===oo  oo===o  o==ooo  ======
 ||||||  ||||||  ||||||  |||O||  ||||||  ||||||  ||||||
-X||O|O  O||||O  ||O|O|  |OO|||  ||OOO|  |OO|||  OO|||O
+|||O|O  O|||OO  ||O|O|  |OO|||  ||OOO|  |OO|||  OO|||O
 ||||O|  |O||||  ||||||  ||||||  ||||||  ||||||  ||||||
 ||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||OOO|
 
@@ -22,7 +22,7 @@ X||O|O  O||||O  ||O|O|  |OO|||  ||OOO|  |OO|||  OO|||O
 
 [ VERSE 1 ]
 
-D            G               A7       D
+D            Em              A7       D
 Great is Thy faith-ful-ness, O God my Fa-ther,
 G           D          E             A
 There is no sha-dow of turn-ing with Thee;
@@ -39,7 +39,7 @@ A7          D             A        E  A
 Morn-ing by morn-ing new  mer-cies I  see;
 A7         D                         Em
 All I have need-ed Thy hand hath pro-vi-ded
-Em           D                        A7 D
+Em           D                     A7    D
 Great is Thy faith-ful-ness, Lord, un-to me!
 
 [ VERSE 2 ]
