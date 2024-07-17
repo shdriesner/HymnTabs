@@ -96,7 +96,7 @@ TBVoicePart = \new Staff \with {
         \left-align {
 	  "2  The whole works of the Lord our God"
 	  "     are great a-bove all meas'ure,"
-	  "   Sought out the are of ev'ry one"
+	  "   Sought out they are of ev'ry one"
 	  "     that doth there-in take pleas'ure."
 	  "                  ---"
 	  "3  His work most hon-our-a-ble is,"
