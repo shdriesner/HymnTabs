@@ -7,24 +7,20 @@ Music: John T. Grape
 [ NO CAPO ]
 
 [ CHORDS ]
-
 D       A       G
-======  ======  ======
+xoo===  oo===o  ==oo==
 ||||||  ||||||  ||||||
-X||O|O  ||OOO|  O|||OO
-||||O|  ||||||  |O||||
+|||O|O  ||OOO|  |O||||
+||||O|  ||||||  O|||OO
 ||||||  ||||||  ||||||
-
 
 [ VERSE 1 ]
- 
   D                         A                   D
 I hear the Sav-ior say  Thy strength in-deed is small.
          D                                          A      D
 Child of weak-ness watch and pray  Find in me thine all in all.
  
 [ CHORUS ]
- 
 D                                A
 Jesus paid it all.  All to Him I owe.
 D                      G
@@ -33,21 +29,18 @@ Sin had left a crimson stain,
 He washed it white as snow.
  
 [ VERSE 2 ]
- 
 Lord, now in-deed I find  Thy power and thine a-lone
 Can change the lep-er's spots  And melt the heart of stone
  
 [ CHORUS ]
- 
-[ VERSE 3 ]
- 
+
+[ VERSE 3 ] 
 For noth-ing good have I  Where by Thy grace to claim;
 I'll wash my gar-ments white  In the blood of Cal-v'ry's Lamb
  
 [ CHORUS ]
- 
-[ VERSE 4 ]
 
+[ VERSE 4 ]
 And when, be-fore the throne,  I stand in Him com-plete,
 "Je-sus died my soul to save,"  My lips will still re-peat.
 

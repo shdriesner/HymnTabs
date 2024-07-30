@@ -4,48 +4,37 @@ O, For a Thousand Tongues to Sing (Blue Hymnal #136)
 Words: Charles Wesley
 Music: Carl G. Glaser; arr. Lowell Mason
 
-Chords:
--------
+[ CHORDS ]
+  G        D        C9   
+  ==oo==   xoo===   o==o==
+  ||||||   ||||||   ||||||
+  |O||||   |||O|O   ||O|||
+  O|||OO   ||||O|   |O||OO
+  ||||||   ||||||   ||||||
 
-  G             D             Cadd9
-  ===========   ===========   ===========
-  | | | | | |   | | | | | |   | | | | | |
-  | O | | | |   | | | O | O   | | O | | |
-  O | | | O O   X | | | O |   X O | | O O
-  | | | | | |   | | | | | |   | | | | | |
+[ INTRO ]
+| G  | C9  | G D | G  |
 
+[ VERSE 1 ]
+  G                                                      D
+O for a thou-sand tongues to sing  my great Re-deem-er's praise,
+    G              C9                  G            D   G
+the glo-ries of my God and King,   the tri-umphs of his grace.
 
-[ Intro ]
+[ VERSE 2 ]
+   G                                               D
+My gra-cious Mas-ter and my God, as-sist me to pro-claim,
+   G                      C9                 G          D   G
+to spread through all the earth a-broad, the hon-ors of thy name.
 
-G   Cadd9   G   D   G
+[ VERSE 3 ]
+     G                                                         D
+Je-sus, the name that charms our fears, that bids our sor-rows cease;
+     G             C9                   G               D   G
+'Tis mu-sic in the sin-ner's ears; 'tis life and health and peace.
 
-
-[Verse 1]
-  G                                                            D
-O for a thou - sand tongues to sing  my great Re - deem - er's praise,
-    G                Cadd9               G              D   G
-the glo - ries of my God and King,   the tri - umphs of his grace.
-
-
-[Verse 2]
-
-   G                                                       D
-My gra - cious Mas - ter and my God, as - sist me to pro - claim,
-   G                      Cadd9                G            D   G
-to spread through all the earth a - broad, the hon - ors of thy name.
- 
-
-[Verse 3]
-
-     G                                                             D
-Je - sus, the name that charms our fears, that bids our sor - rows cease;
-     G               Cadd9                  G               D   G
-'Tis mu - sic in the sin - ner's ears; 'tis life and health and peace.
- 
-
-[Verse 4]
-
-   G                                                             D
-He breaks the pow'r of can - celled sin, he sets the pris - 'ner free;
-    G                  Cadd9                 G                D   G
-His blood can make the foul - est clean, His blood a - vailed for me.
+[ VERSE 4 ]
+   G                                                         D
+He breaks the pow'r of can-celled sin, he sets the pris-'ner free;
+    G                  C9                  G              D   G
+His blood can make the foul-est clean, His blood a-vailed for me.

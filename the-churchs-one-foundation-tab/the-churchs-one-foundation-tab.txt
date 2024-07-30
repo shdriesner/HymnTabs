@@ -8,8 +8,8 @@ Words: Samuel J. Stone         Music: Samuel S. Wesley
 D       D9      D6      G       Bm      A       Em
 xoo===  xoo===  xoo==o  ==oo==  ======  oo===o  o==ooo
 ||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
-|||O|O  |||O||  |||O||  O|||OO  OO|||O  ||OOO|  |OO|||
-||||O|  ||||OO  ||||O|  |O||||  ||||O|  ||||||  ||||||
+|||O|O  |||O||  |||O||  |O||||  OO|||O  ||OOO|  |OO|||
+||||O|  ||||OO  ||||O|  O|||OO  ||||O|  ||||||  ||||||
 ||||||  ||||||  ||||||  ||||||  ||OO||  ||||||  ||||||
 
 [ INTRO ]

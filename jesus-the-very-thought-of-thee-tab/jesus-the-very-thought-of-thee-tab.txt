@@ -6,45 +6,35 @@ Music: John B. Dykes
 
 [ CHORDS ]
 
-  G             D             D7            Am
-  ===========   ===========   ===========   ===========
-  | | | | | |   | | | | | |   | | | | O |   | | | | O |
-  | O | | | |   | | | O | O   | | | O | O   | | O O | |
-  O | | | O O   X | | | O |   X | | | | |   | | | | | |
-  | | | | | |   | | | | | |   | | | | | |   | | | | | |
+  G        D        D7       Am
+  ==oo==   xoo===   xoo===   oo===o
+  ||||||   ||||||   ||||O|   ||||O|
+  |O||||   |||O|O   |||O|O   ||OO||
+  O|||OO   ||||O|   ||||||   ||||||
+  ||||||   ||||||   ||||||   ||||||
 
+[ INTRO ]
+| Am  | D  | G D  | G  |
 
-[ Intro ]
-
-Am  D  D7  G  D  G
-
-
-[ Verse 1 ]
-
+[ VERSE 1 ]
 G            D       D7         G                               D
 Je - sus the ve - ry thought of Thee with sweet - ness fills my breast
 Am                      D            G          D           G
 But sweet - er  far Thy face to see, And in Thy pre - sence rest.
 
-
-[ Verse 2 ]
-
+[ VERSE 2 ]
 G            D        D7        G                            D
 No voice can sing, no heart can frame, nor can the mem - 'ry find
 Am                      D               G           D        G
 A sweet - er sound than Je - sus' name, O Sav - ior of man - kind.
 
-
-[ Verse 3 ]
-
+[ VERSE 3 ]
 G         D        D7          G                        D
 O Hope of ev - 'ry con - trite heart!  O Joy of all the meek!
 Am                     D               G           D         G
 To those who fall, how kind Thou art!  How good to those who seek!
 
-
-[ Verse 4 ]
-
+[ VERSE 4 ]
 G           D         D7        G                           D
 But what to those who find? ah! this,  No tongue or pen can show.
 Am                    D                G            D          G

@@ -9,10 +9,10 @@ Music: Stralsund Gesangbuch
 [ CHORDS ]
 
 D       A       G
-======  ======  ======
+xoo===  oo===o  ==oo==
 ||||||  ||||||  ||||||
-X||O|O  ||OOO|  O|||OO
-||||O|  ||||||  |O||||
+|||O|O  ||OOO|  |O||||
+||||O|  ||||||  O|||OO
 ||||||  ||||||  ||||||
 
 [ INTRO ]

@@ -7,14 +7,12 @@ Music: Lowell Mason
 [ CAPO 3 ]
 
 [ CHORDS ]
-
 D       A       G
-======  ======  ======
+xoo===  oo===o  ==oo==
 ||||||  ||||||  ||||||
-X||O|O  ||OOO|  O|||OO
-||||O|  ||||||  |O||||
+|||O|O  ||OOO|  |O||||
+||||O|  ||||||  O|||OO
 ||||||  ||||||  ||||||
-
 
 [ INTRO ]
 

@@ -9,9 +9,9 @@ Music: William B. Bradbury
 [ CHORDS ]
 
   A        D        E
-  ======   ======   ======
+  oo===o   xoo===   o===oo
   ||||||   ||||||   |||O||
-  ||OOO|   x||O|O   |OO|||
+  ||OOO|   |||O|O   |OO|||
   ||||||   ||||O|   ||||||
   ||||||   ||||||   ||||||
 

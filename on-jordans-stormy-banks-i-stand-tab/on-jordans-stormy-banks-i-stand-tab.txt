@@ -9,9 +9,9 @@ Music: American folk hymn
 [ CHORDS ]
 
   D        G        A
-  ======   ======   ======
+  xoo===   ==oo==   oo===o
   ||||||   ||||||   ||||||
-  x||O|O   |O||||   ||OOO|
+  |||O|O   |O||||   ||OOO|
   ||||O|   O|||OO   ||||||
   ||||||   ||||||   ||||||
 

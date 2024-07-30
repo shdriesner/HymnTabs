@@ -7,55 +7,43 @@ Latin Hymn
 
 [ CHORDS ]
 
-  Em            Am            C             D             G
-  ===========   ===========   ===========   ===========   ===========
-  | | | | | |   | | | | O |   | | | | O |   | | | | | |   | | | | | |
-  | O O | | |   | | O O | |   | | O | | |   X | | O | O   O | | | O O
-  | | | | | |   | | | | | |   | O | | | |   | | | | O |   | O | | | |
-  | | | | | |   | | | | | |   | | | | | |   | | | | | |   | | | | | |
-
+  Em       Am       C        D        G
+  o==ooo   oo===o   o==o=o   xoo===   ==oo==
+  ||||||   ||||O|   ||||O|   ||||||   ||||||
+  |OO|||   ||OO||   ||O|||   |||O|O   |O||||
+  ||||||   ||||||   |O||||   ||||O|   O|||OO
+  ||||||   ||||||   ||||||   ||||||   ||||||
 
 [ VERSE 1 ]
-
   Em               Am    Em      Em               Am   Em
 O come, O come, Em-man-u-el, And ran-som cap-tive Is---rael,
      Am                C       D        Em             Am     G
 That mourns in lone-ly ex--ile here, Un-til the Son of God ap-pear
 
 [ CHORUS ]
-
    D         Em        Am    C         Em              Am     Em
 Re-joice! Re-joice! Em-man-u-el  Shall come to thee, O Is--ra-el.
 
-
-[ VERSE 2 ]
- 
+[ VERSE 2 ] 
   Em                     Am       Em         Em                Am      Em
 O come, Thou Day-Spring, come and cheer  Our spir-its by Thine ad-vent here;
     Am                C         D          Em                    Am     G
 Dis-perse the gloom-y clouds of night  And death's dark shad-ows put to flight.
 
-
 [ CHORUS ]
 
-
 [ VERSE 3 ]
- 
   Em                 Am      Em         Em                 Am      Em
 O come, Thou Wis-dom from on high,  And or-der all things, far and nigh
    Am             C          D          Em              Am      G
 To us the path of know-ledge show,  And cause us in her ways to go.
 
-
 [ CHORUS ]
 
-
 [ VERSE 4 ]
- 
   Em               Am        Em        Em              Am        Em
 O come, De-sire of na-tions, bind  All peo-ples in one heart and mind.
     Am                 C         D            Em                   Am        G
 Bid en-vy, strife, and quar-rels cease;  Fill the whole world with heav-en's peace.
-
 
 [ CHORUS ]

@@ -8,8 +8,8 @@ Words: Edward Mote                Music: William B. Bradbury
   D        A        G
   xoo===   oo===o   ==oo==
   ||||||   ||||||   ||||||
-  |||O|O   ||OOO|   O|||OO
-  ||||O|   ||||||   |O||||
+  |||O|O   ||OOO|   |O||||
+  ||||O|   ||||||   O|||OO
   ||||||   ||||||   ||||||
 
 [ INTRO ]

@@ -6,12 +6,11 @@ Words & Music: Frederick M. Lehman
 [ CAPO 5 ]
 
 [ CHORDS ]
-
   C9       G        D
-  ======   ======   ======
+  o==o==   ==oo==   xoo===
   ||||||   ||||||   ||||||
-  |O||OO   O|||OO   X||O|O
-  ||O|||   |O||||   ||||O|
+  ||O|||   |O||||   |||O|O
+  |O||OO   O|||OO   ||||O|
   ||||||   ||||||   ||||||
 
 

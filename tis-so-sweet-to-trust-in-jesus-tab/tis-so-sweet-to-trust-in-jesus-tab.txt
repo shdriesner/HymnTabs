@@ -9,10 +9,10 @@ Music: William J. Kirkpatrick
 [ CHORDS ]
 
 G       C       D       Dsus
-======  ======  ======  ======
+==oo==  o==o==  xoo===  xoo===
 ||||||  ||||||  ||||||  ||||||
-O|||OO  |O||OO  X||O|O  X||O||
-|O||||  ||O|||  ||||O|  ||||OO
+|O||||  ||O|||  |||O|O  |||O||
+O|||OO  |O||OO  ||||O|  ||||OO
 ||||||  ||||||  ||||||  ||||||
 
 [ INTRO ]

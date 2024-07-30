@@ -7,17 +7,14 @@ Music: Johann Cruger
 [ CAPO 1 ]
 
 [ CHORDS ]
-
 D       G       Em      A       Bm
-======  ======  ======  ======  ======
+xoo===  ==oo==  o==ooo  oo===o  ======
 ||||||  ||||||  ||||||  ||||||  ||||||
-X||O|O  O|||OO  |OO|||  ||OOO|  OO|||O
-||||O|  |O||||  ||||||  ||||||  ||||O|
+|||O|O  |O||||  |OO|||  ||OOO|  OO|||O
+||||O|  O|||OO  ||||||  ||||||  ||||O|
 ||||||  ||||||  ||||||  ||||||  ||OO||
 
-
-[Verse 1]
-
+[ VERSE 1 ]
 D            G       D         Em        A             D
 Now thank we all our God  With heart and hands and voi-ces
 D            G           D         Em       A            D
@@ -27,17 +24,13 @@ Who from our mo-ther's arms,  Hath blessed us on our way
      Bm        Em                           A       D
 With countless gifts of love,  And still is ours to-day
 
- 
-[Verse 2]
-
+[ VERSE 2 ]
 O may this boun-teous God  Through all our life be near us
 With ever-joy-ful hearts   And bles-sèd peace to cheer us
 And keep us in his grace,  And guide us when per-plexed
 And free us from all ills  in this world and the next.
 
-
-[Verse 3]
-
+[ VERSE 3 ]
 All praise and thanks to God  The Fa-ther now be giv-en,
 The Son, and Him who reigns  With them in high-est heav-en,
 The one e-ter-nal God,  Whom earth and heav'n a-dore;

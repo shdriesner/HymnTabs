@@ -9,9 +9,9 @@ Music: William Runyan, 1923
 [ CHORDS ]
 
 D       A
-======  ======
+xoo===  oo===o
 ||||||  ||||||
-X||O|O  ||OOO|
+|||O|O  ||OOO|
 ||||O|  ||||||
 ||||||  ||||||
 

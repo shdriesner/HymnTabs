@@ -9,10 +9,10 @@ Music: Franklin L. Sheppard
 [ CHORDS ]
 
   D       G       A
-  ======  ======  ======
+  xoo===  ==oo==  oo===o
   ||||||  ||||||  ||||||
-  x||O|O  O|||OO  ||OOO|
-  ||||O|  |O||||  ||||||
+  |||O|O  |O||||  ||OOO|
+  ||||O|  O|||OO  ||||||
   ||||||  ||||||  ||||||
 
 [ INTRO ]

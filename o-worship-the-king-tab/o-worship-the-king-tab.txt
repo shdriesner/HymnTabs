@@ -8,10 +8,10 @@ Words: Robert Grant       Music: Attr. Johann Michael Haydn
 [ CHORDS ]
 
 G       C9      D
-======  ======  ======
+==oo==  o==o==  xoo===
 ||||||  ||||||  ||||||
-O|||OO  |O||OO  X||O|O
-|O||||  ||O|||  ||||O|
+|O||||  ||O|||  |||O|O
+O|||OO  |O||OO  ||||O|
 ||||||  ||||||  ||||||
 
 
