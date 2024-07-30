@@ -7,16 +7,14 @@ Music: An old Welsh Tune (St Denio)
 [ CAPO 1 ]
 
 [ CHORDS ]
-
   D        G        Em       A
-  ======   ======   ======   ======
+  xoo===   ==oo==   o==ooo   oo===o
   ||||||   ||||||   ||||||   ||||||
-  x||O|O   |O||||   |OO|||   ||OOO|
+  |||O|O   |O||||   |OO|||   ||OOO|
   ||||O|   O|||OO   ||||||   ||||||
   ||||||   ||||||   ||||||   ||||||
 
 [ VERSE 1 ]
-
 D                     G               D
 A-bide with me:  fast falls the e-ven-tide;
 D             G    D     Em         D    A
@@ -27,21 +25,18 @@ A           D           G   D    A    D
 Help of the help-less,  O a-bide with me!
 
 [ VERSE 2 ]
-
 Swift to its close ebbs out life's lit-tle day;
 Earth's joys grow dim, its glo-ries pass a-way;
 Change and de-cay in all a-round I see:
 O Thou who chang-est not, abide with me!
 
 [ VERSE 3 ]
-
 I need Thy pres-ence ev-ery pass-ing hour;
 What but Thy grace can foil the tempt-er's pow'r?
 Who like Thy-self my guide and stay can be?
 Through cloud and sun-shine, O a-bide with me!
 
 [ VERSE 4 ]
-
 Hold Thou Thy cross be-fore my clos-ing eyes;
 Shine through the gloom, and point me to the skies:
 Heav'n's morn-ing breaks, and earth's vain sha-dows flee:

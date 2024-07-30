@@ -8,12 +8,11 @@ Words & Music: Matt Boswell, Matt Papa, and Michael Bleecker
 [ CHORDS ]
 
 D       G       A       Bm7
-======  ======  ======  ======
+xoo===  ==oo==  oo===o  ======
 ||||||  ||||||  ||||||  ||||||
-x||O|O  O|||OO  ||OOO|  OO|O|O
-||||O|  |O||||  ||||||  ||||O|
+|||O|O  |O||||  ||OOO|  OO|O|O
+||||O|  O|||OO  ||||||  ||||O|
 ||||||  ||||||  ||||||  ||O|||
-
 
 [ INTRO/TURNAROUND ]
 
@@ -32,7 +31,6 @@ Look to Christ who con-de-scend-ed  took on flesh to ran-som us
 [ TURNAROUND ]
 
 [ VERSE 2 ]
-
 Come be-hold the won-drous myst'ry  He the per-fect Son of Man
 In His liv-ing in His suff-'ring  nev-er trace nor stain of sin
 See the true and bet-ter A-dam  come to save the hell-bound man
@@ -41,7 +39,6 @@ Christ the great and sure ful-fill-ment  of the law in Him we stand
 [ TURNAROUND ]
 
 [ VERSE 3 ]
-
 Come be-hold the won-drous myst'ry  Christ the Lord up-on the tree
 In the stead of ru-in'd sin-ners  hangs the Lamb in vic-to-ry
 See the price of our re-demp-tion  see the Fa-ther's plan un-fold
@@ -50,7 +47,6 @@ Bring-ing ma-ny sons to glo-ry  grace un-mea-sured love un-told
 [ TURNAROUND ]
 
 [ VERSE 4 ]
-
 Come be-hold the won-drous myst'ry  slain by death the God of life
 But no grave could e'er re-strain Him  praise the Lord He is a-live
 What a fore-taste of de-liv-'rance  how un-wa-ver-ing our hope
@@ -61,7 +57,5 @@ Christ in pow-er res-ur-rect-ed  as we will be when He comes
 What a fore-taste of de-liv-'rance  how un-wa-ver-ing our hope
           D             G                      A       D
 Christ in pow-er res-ur-rect-ed  as we will be when He comes
-
-
 
 

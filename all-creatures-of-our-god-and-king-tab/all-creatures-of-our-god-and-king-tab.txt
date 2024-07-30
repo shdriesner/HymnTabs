@@ -5,10 +5,10 @@ Music: Geistliche Kierchengesaeng
 
 [ CHORDS ]               [ NO CAPO ]
 D       A       G
-======  ======  ======
+xoo===  oo===o  ==oo==
 ||||||  ||||||  ||||||
-X||O|O  ||OOO|  O|||OO
-||||O|  ||||||  |O||||
+|||O|O  ||OOO|  |O||||
+||||O|  ||||||  O|||OO
 ||||||  ||||||  ||||||
 
 [ INTRO ]
@@ -35,6 +35,7 @@ Thou rush-ing wind that art so strong,
 Ye clouds that sail in heav'n a-long,  O praise Him! Al-le-lu-ia!
 Thou ris-ing morn, in praise re-joice,
 Ye lights of eve-ning, find a voice,
+
 [ CHORUS ]
 
 [ VERSE 3 ]
@@ -42,6 +43,7 @@ And all ye men of ten-der heart,
 For-giv-ing oth-ers, take your part,  O sing ye! Al-le-lu-ia!
 Ye who long pain and sor-row bear,
 Praise God and on Him cast your care,
+
 [ CHORUS ]
 
 [ VERSE 4 ]
@@ -49,6 +51,7 @@ Let all things their Cre-at-or bless,
 And wor-ship Him in hum-ble-ness,  O praise Him! Al-le-lu-ia!
 Praise, praise the Fa-ther, praise the Son,
 And praise the Spirit, Three in One,
+
 [ CHORUS ]
 
 [ VERSE 5 ]
@@ -56,4 +59,5 @@ Praise God, from whom all blessings flow;
 Praise Him, all crea-tures here be-low;  O praise Him! Al-le-lu-ia!
 Praise Him a-bove, ye heav'n-ly host;
 Praise Fa-ther, Son, and Ho-ly Ghost,
+
 [ CHORUS ]

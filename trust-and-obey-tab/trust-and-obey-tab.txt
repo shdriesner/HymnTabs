@@ -5,7 +5,6 @@ Words: John H. Sammis
 Music: Daniel B. Towner
 
 [ CHORDS ] [ CAPO 3 ]
-
 D       A       G       Dsus    B       Em
 xoo===  oo===o  ==oo==  xoo===  ======  o==ooo
 ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
@@ -14,7 +13,6 @@ xoo===  oo===o  ==oo==  xoo===  ======  o==ooo
 ||||||  ||||||  ||||||  ||||||  ||OO||  ||||||
 
 [ INTRO ]
-
 | A D | B Em  | A D  | D A D  |
 
 [ VERSE 1 ]

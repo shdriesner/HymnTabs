@@ -8,21 +8,17 @@ Music: George C. Stebbins
 
 [ CHORDS ]
 
-  D             A7            G
-  ===========   ===========   ===========
-  | | | | | |   | | | | | |   | | | | | |
-  X | | O | O   | | O | O |   O | | | O O
-  | | | | O |   | | | | | |   | O | | | |
-  | | | | | |   | | | | | |   | | | | | |
+  D        A7       G
+  xoo===   oo=o=o   ======
+  ||||||   ||||||   ||||||
+  |||O|O   ||O|O|   |O||||
+  ||||O|   ||||||   O|||OO
+  ||||||   ||||||   ||||||
 
-
-[ Intro ]
-
+[ INTRO ]
 | D  | G  | D  | A7 D  |
 
-
-[ Verse 1 ]
-
+[ VERSE 1 ]
 D                                         A7
 Have thine own way, Lord!  Have thine own way!
              A7                D
@@ -31,33 +27,25 @@ Thou art the Pot-ter, I am the clay!
 Mold me and make me Af-ter thy will,
            D         A7           D
 While I am wait-ing, Yield-ed and still.
- 
 
-[ Verse 2 ]
-
+[ VERSE 2 ]
 Have thine own way, Lord!  Have thine own way!
 Search me and try me, Mas-ter, to-day!
 Whit-er than snow, Lord, Wash me just now,
 As in thy pres-ence Hum-bly I bow.
 
-
-[ Verse 3 ]
-
+[ VERSE 3 ]
 Have thine own way, Lord!  Have thine own way!
 Wound-ed and wea-ry, Help me, I pray!
 Pow-er, all pow-er Sure-ly is thine!
 Touch me and heal me, Sav-ior di-vine.
  
-
-[ Verse 4 ]
-
+[ VERSE 4 ]
 Have thine own way, Lord!  Have thine own way!
 Hold o’er my be-ing Ab-so-lute sway!
 Fill with thy Spir-it Till all shall see
 Christ on-ly, al-ways, liv-ing in me.
 
-
-[ Amen ]
-
+[ AMEN ]
 A7  D
 A – men.

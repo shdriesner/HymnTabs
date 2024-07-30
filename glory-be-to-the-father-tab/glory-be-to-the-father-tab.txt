@@ -9,21 +9,16 @@ Music: Henry W. Greatorex
 [ CHORDS ]
 
 D       A       E7    
-======  ======  ======
+xoo===  oo===o  o===oo
 ||||||  ||||||  |||O||
-X||O|O  ||OOO|  |OO|||
+|||O|O  ||OOO|  |OO|||
 ||||O|  ||||||  ||||||
 ||||||  ||||||  ||||||
 
-
 [ VERSE 1 ]
-
-
 D                A                   D               A  E  A
 Glo-ry be to the Fa-ther, and to the Son, and to the Ho-ly Ghost.
-
 D                   A                          D
 As it was in the be-gin-ning, is now and e-ver shall be,
-
 D                     A      D
 World with-out end. A-men, A-men

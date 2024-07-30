@@ -2,23 +2,19 @@ He Will Hold Me Fast (CCLI) (simplified by S. Driesner)
 =======================================================
 
 [ CHORDS ]
-
 G       C9      D       Am7     Em      B
-==oo==  o==o==  x=====  oo=o=o  o==ooo  ======
+==oo==  o==o==  xoo===  oo=o=o  o==ooo  ======
 ||||||  ||||||  ||||||  ||||O|  ||||||  ||||||
-O|||OO  |O||OO  |||O|O  ||O|||  |OO|||  OO|||O
-|O||||  ||O|||  ||||O|  ||||||  ||||||  ||||||
+|O||||  ||O|||  |||O|O  ||O|||  |OO|||  OO|||O
+O|||OO  |O||OO  ||||O|  ||||||  ||||||  ||||||
 ||||||  ||||||  ||||||  ||||||  ||||||  ||OOO|
-
 
 [ NO CAPO ]
 
 [ INTRO ]
-
 | G A7  | G C9 | C9 D | G  |
 
 [ VERSE 1 ]
-
 G                         C9                 D       G
 When I fear my faith will fail,  Christ will hold me fast
 G                           C9            D       G
@@ -29,14 +25,12 @@ Em     D       G     C9            D       G
 For my love is often cold, He must hold me fast
 
 [ CHORUS ]
-
 C9      D       Em            D       G
 He will hold me fast, He will hold me fast
 G      Am7     G        C9          D       G
 For my Sav-ior loves me so, He will hold me fast
 
 [ VERSE 2 ]
-
 Those He saves are His de-light, Christ will hold me fast
 Pre-cious in His ho-ly sight, He will hold me fast
 He'll not let my soul be lost, His Pro-mis-es shall last
@@ -45,7 +39,6 @@ Bought by Him at such a cost, He will hold me fast
 [ CHORUS ]
 
 [ VERSE 3 ]
-
 For my life He bled and died, Christ will hold me fast
 Jus-tice has been sat-is-fied, He will hold me fast
 Raised with Him to end-less life, He will hold me fast

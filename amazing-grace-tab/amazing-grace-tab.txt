@@ -7,16 +7,14 @@ Music: Virginia Harmony
 [ CAPO 4 ]
 
 [ CHORDS ]
-
   D       G       Asus    A       Bm      Dsus
-  ======  ======  ======  ======  ======  ======
+  xoo===  ==oo==  oo===o  oo===o  ======  xoo===
   ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
-  x||O|O  |O||||  ||OO||  ||OOO|  OO|||O  x||O||
+  |||O|O  |O||||  ||OO||  ||OOO|  OO|||O  |||O||
   ||||O|  O|||OO  ||||O|  ||||||  ||||O|  ||||OO
   ||||||  ||||||  ||||||  ||||||  ||OO||  ||||||
 
 [ INTRO ]
-
 | D  | G D  | Bm Asus A  | Dsus D  |
 
 [ VERSE 1 ]
@@ -26,21 +24,17 @@ A-ma-zing grace!  How sweet the sound that saved a wretch like me!
 I once was lost, but now am found.  Was blind, but now  I see
 
 [ VERSE 2 ]
-
 'Twas grace that taught my heart to fear, and grace my fears re-lieved
 How pre-cious did that grace ap-pear the hour I first be-lieved
 
 [ VERSE 3 ]
-
 Through man-y dan-gers, toils and snares I have al-read-y come;
 'Tis grace hath brought me safe thus far, and grace will lead me home.
 
 [ VERSE 4 ]
-
 The Lord has prom-ised good to me, His word my hope se-cures;
 He will my shield and por-tion be as long as life en-dures.
 
 [ VERSE 5 ]
-
 When we've been there ten thou-sand years, Bright shin-ing as the sun,
 We've no less days to sing God's praise than when we first be-gun.

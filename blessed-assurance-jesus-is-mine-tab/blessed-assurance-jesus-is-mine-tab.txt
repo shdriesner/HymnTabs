@@ -9,10 +9,10 @@ Music: Phoebe Palmer Knapp
 [ CHORDS ]
 
   G       C9      D       A       Am      A7      D7
-  ======  ======  ======  ======  ======  ======  ======
+  ==oo==  o==o==  xoo===  oo===o  oo===o  oo=o=o  xoo===
   ||||||  ||||||  ||||||  ||||||  ||||O|  ||||||  ||||O|
-  O|||OO  |O||OO  x||O|O  ||OOO|  ||OO||  ||O|O|  x||O|O
-  |O||||  ||O|||  ||||O|  ||||||  ||||||  ||||||  ||||||
+  |O||||  ||O|||  |||O|O  ||OOO|  ||OO||  ||O|O|  |||O|O
+  O|||OO  |O||OO  ||||O|  ||||||  ||||||  ||||||  ||||||
   ||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
 
 [ INTRO ]
@@ -20,7 +20,6 @@ Music: Phoebe Palmer Knapp
 | Am D  | G  |
 
 [ VERSE 1 ]
-
             G         C9        G
 Bless-ed as-sur-ance, Je-sus is mine!
            C9   D        A      D
@@ -31,7 +30,6 @@ Heir of sal-va-tion, pur-chased of God,
 Born of His Spir-it, washed in His blood.
 
 [ CHORUS ]
-
            G       C9         G
 This is my sto-ry, this is my song.
              C9  G   A7          D
@@ -42,7 +40,6 @@ This is my sto-ry, this is my song.
 Prais-ing my Sav-ior all the day long;
 
 [ VERSE 2 ]
-
 Per-fect sub-mis-sion, per-fect de-light.
 Vi-sions of rap-ture now burst on my sight:
 An-gels de-scend-ing bring from a-bove
@@ -51,7 +48,6 @@ Ech-oes of mer-cy, whis-pers of love.
 [ CHORUS ]
 
 [ VERSE 3 ]
-
 Per-fect sub-mis-sion, all is at rest,
 I in my Sav-ior am hap-py and blest;
 Watch-ing and wait-ing, looking a-bove,

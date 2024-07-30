@@ -9,18 +9,16 @@ Music: Melchior Teschner
 [ CHORDS ]
 
 G       D       A       Am
-======  ======  ======  ======
+==oo==  xoo===  oo===o  oo===o
 ||||||  ||||||  ||||||  ||||O|
-O|||OO  x||O|O  ||OOO|  ||OO||
-|O||||  ||||O|  ||||||  ||||||
+|O||||  |||O|O  ||OOO|  ||OO||
+O|||OO  ||||O|  ||||||  ||||||
 ||||||  ||||||  ||||||  ||||||
 
 [ INTRO ]
-
 | G  | G  | D Am  | G  |
  
 [ VERSE 1 ]
-
     G                            D                 G
 All glo-ry, laud, and hon-or  To thee, Re-deem-er, King.
    G                                D                G
@@ -31,14 +29,12 @@ Thou art the King of Is-ra-el,  Thou Da-vid's roy-al Son,
 Who in the Lord's name com-est,  The King and Bless-ed One.
 
 [ VERSE 2 ]
-
 The com-pa-ny of an-gels  Are prais-ing Thee on high,
 And mor-tal men and all things  Cre-at-ed make re-ply.
 The peo-ple of the He-brews  With palms be-fore Thee went;
 Our praise and pray'r and an-thems  Be-fore Thee we pre-sent.
 
 [ VERSE 3 ]
-
 To Thee, be-fore Thy pas-sion,  They sang their hymns of praise;
 To Thee, now high ex-alt-ed,  Our mel-o-dy we raise.
 Thou didst ac-cept their prais-es;  Ac-cept the praise we bring,

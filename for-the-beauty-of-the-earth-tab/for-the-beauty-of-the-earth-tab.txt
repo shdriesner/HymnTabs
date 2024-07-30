@@ -9,61 +9,51 @@ Music: Conrad Kocher
 [ CHORDS ]
 
 G       D       C9
-======  ======  ======
+==oo==  xoo===  o==o==
 ||||||  ||||||  ||||||
-O|||OO  x||O|O  |O||OO
-|O||||  ||||O|  ||O|||
+|O||||  |||O|O  ||O|||
+O|||OO  ||||O|  |O||OO
 ||||||  ||||||  ||||||
-
 
 [ INTRO ]
 
 | G  | D  G  | C9 G  | G D G  |
 
 [ VERSE 1 ]
-
 G       D       C9     G      C9      G      D      G
 For the beau-ty of the earth. for the glo-ry of the skies.
 G       D          C9       G      C9    G     D        G
 For the love which from our birth, o-ver and a-round us lies;
 
-
 [ CHORUS ]
-
 G               D       G      C9       G       G     D   G
 Lord of all, to Thee we raise  This our hymn of grate-ful praise.
 
-
 [ VERSE 2 ]
-
 For the won-der of each hour  Of the day and of the night.
 Hill and vale and tree an flow'r,  Sun and moon and stars of light;
 
 [ CHORUS ]
 
 [ VERSE 3 ]
-
 For the joy of hu-man love,  Bro-ther, sis-ter, par-ent, child.
 Friends on earth and friends a-bove;  For all gen-tle thoughts and mild;
 
 [ CHORUS ]
 
 [ VERSE 4 ]
-
 For the church that ev-er-more  Lift-eth ho-ly hands a-bove,
 Of-f'ring up on ev-'ry shore  Her pure sac-ri-fice of love;
 
 [ CHORUS ]
 
 [ VERSE 5 ]
-
 For the joy of ear and eye,  For the heart ans mind's de-light,
 For the mys-tic har-mo-ny  Link-ing sense to sound and sight;
 
 [ CHORUS ]
 
 [ VERSE 6 ]
-
 For Thy-self, best Gift Di-vine!  To our race so free-ly giv'n,
 For that great, great love of Thine,  Peace on earth and joy in heav'n;
 

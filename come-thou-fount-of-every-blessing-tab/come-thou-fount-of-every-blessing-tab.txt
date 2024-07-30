@@ -9,12 +9,11 @@ Music: Traditional American melody
 [ CHORDS ]
 
 C       G       Am
-======  ======  ======
+o==o=o  ==oo==  oo===o
 ||||O|  ||||||  ||||O|
-||O|||  O|||OO  ||OO||
-|O||||  |O||||  ||||||
+||O|||  |O||||  ||OO||
+|O||||  O|||OO  ||||||
 ||||||  ||||||  ||||||
-
 
 [ INTRO ]
 

@@ -7,12 +7,11 @@ Music: Oliver Holden
 [ CAPO 3 ]
 
 [ CHORDS ]
-
 D       A       G       Bm      E
 xoo===  oo===o  ==oo==  ======  o===oo
 ||||||  ||||||  ||||||  ||||||  |||O||
-|||O|O  ||OOO|  O|||OO  OO|||O  |OO|||
-||||O|  ||||||  |O||||  ||||O|  ||||||
+|||O|O  ||OOO|  |O||||  OO|||O  |OO|||
+||||O|  ||||||  O|||OO  ||||O|  ||||||
 ||||||  ||||||  ||||||  ||OO||  ||||||
 
 [ INTRO ]

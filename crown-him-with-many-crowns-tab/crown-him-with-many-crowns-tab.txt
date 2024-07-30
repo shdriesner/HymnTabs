@@ -7,21 +7,18 @@ Music: George J. Elvrey
 [ NO CAPO ]
 
 [ CHORDS ]
-
 D       G       A       E
-======  ======  ======  ======
+xoo===  ==oo==  oo===o  o===oo
 ||||||  ||||||  ||||||  |||O||
-X||O|O  O|||OO  ||OOO|  |OO|||
-||||O|  |O||||  ||||||  ||||||
+|||O|O  |O||||  ||OOO|  |OO|||
+||||O|  O|||OO  ||||||  ||||||
 ||||||  ||||||  ||||||  ||||||
-
 
 [ INTRO ]
 
 | D  | G D  | G A  | D  |
 
 [ VERSE 1 ]
-
 D                    G            D       G      A
 Crown Him with man-y crowns,  The Lamb up-on His throne;
       D       G         E       A           A      E       A
@@ -32,21 +29,18 @@ A-wake my soul, and sing  Of Him who died for thee,
 And hail Him as thy match-less King  Through all e-ter-ni-ty.
 
 [ VERSE 2 ]
-
 Crown Him the Lord of Life,  Who tri-umphed o'er the grave,
 And rose vic-to-rious in the strife   For those He came to save;
 His glo-ries now we sing,  Who died and rose on high,
 Who died e-ter-nal life to bring,  And lives that death may die.
 
 [ VERSE 3 ]
-
 Crown Him the Lord of peace,  Whose pow'r a scep-ter sways
 From pole to pole, that wars may cease,  And all be pray'r and praise:
 His reign shall know no end,  And round his pierc-ed feet
 Fair flow'rs of par-a-dise ex-tend  Their fra-grance ev-er sweet.
 
 [ VERSE 4 ]
-
 Crown Him the Lord of love;  Be-hold His hands and side,
 Those wounds, yet vis-i-ble a-bove,  In beau-ty glo-ri-fied:
 All hail, Re-deem-er, hail!  For Thou hast died for me;

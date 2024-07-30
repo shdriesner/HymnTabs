@@ -7,16 +7,14 @@ Music: An old Welsh Tune (St Denio)
 [ NO CAPO ]
 
 [ CHORDS ]
-
   G        C9       C9'      D        Dsus4
-  ======   ======   ======   ======   ======
+  ==oo==   o==o==   oo=o==   xoo===   xoo===
   ||||||   ||||||   ||||||   ||||||   ||||||
-  |O||||   ||O|||   ||O|||   x||O|O   x||O||
+  |O||||   ||O|||   ||O|||   |||O|O   |||O||
   O|||OO   |O||OO   ||||OO   ||||O|   ||||OO
   ||||||   ||||||   ||||||   ||||||   ||||||
 
 [ VERSE 1 ]
-
 G    C9         C9'  D         Dsus4   G        D   G
 Im - mor - tal, in – vis - i - ble,    God on – ly  wise,
 G  C9         C9'  D          Dsus4   G        D   G
@@ -27,21 +25,18 @@ G    C9         C9'   D           Dsus4  G          D   G
 Al – migh - ty, vic - tor - ious, Thy    great name we  praise.
 
 [ VERSE 2 ]
-
 Un – rest - ing, un – hast - ing and si – lent as  light,
 Nor want - ing, nor wast - ing, Thou rul - est in  might;
 Thy just - ice, like moun - tains, high soar - ing a - bove
 Thy clouds, which are foun - tains of  good - ness and love.
  
 [ VERSE 3 ]
-
 To all, life Thou giv - est, to both great and small;
 In all life Thou liv - est, the true life of  all;
 We blos - som and flour - ish as leaves on the tree,
 And with – er and per - ish – but naught chang - eth Thee.
  
 [ VERSE 4 ]
-
 Great Fa - ther of glo - ry, pure Fa - ther of light,
 Thine an – gels a - dore Thee, all veil - ing their sight;
 All praise we would ren - der; O help us to see
