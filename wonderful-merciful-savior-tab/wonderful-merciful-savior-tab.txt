@@ -9,7 +9,7 @@ Music: Dawn Rodgers
 [ CHORDS ]
 
   G       C9      Dsus    D       Em
-  ======  ======  ======  ======  ======
+  ==oo==  o==o==  xoo===  xoo===  o==o==
   ||||||  ||||||  ||||||  ||||||  ||||||
   |O||||  ||O|||  |||O||  |||O|O  |OO|||
   O|||OO  |O||OO  ||||OO  ||||O|  ||||OO
