@@ -64,6 +64,7 @@ versesVoiceThree = \lyricmode {
 MelodyVoice = \relative c {
   \global
   \dynamicUp
+  \repeat volta 2
   % Music follows here.
   {
     r2 <d >4 |
@@ -84,13 +85,14 @@ MelodyVoice = \relative c {
     <fs >8  <e  >8  <e  >4  <e  >4  |
     <c' >8  <a  >8  <g  >4  <fs >4  |
     <g  >2
-    \bar "|."
+%    \bar "|."
   }
 }
 
 SAVoice = \relative c {
   \global
   \dynamicUp
+  \repeat volta 2
   % Music follows here.
   {
     r2 <b  d >4 |
@@ -111,13 +113,14 @@ SAVoice = \relative c {
     <d  fs >8  <c  e  >8  <c  e  >4  <d  e  >4  |
     <e  c' >8  <e  a  >8  <d  g  >4  <d  fs >4  |
     <d  g  >2
-    \bar "|."
+%    \bar "|."
   }
 }
 
 TBVoice = \relative c {
   \global
   \dynamicUp
+  \repeat volta 2
   % Music follows here.
   {
     r2 <g  g' >4 |
@@ -138,7 +141,7 @@ TBVoice = \relative c {
     <c  g' >8  <c  g' >8  <c  g' >4  <b  gs'>4  |
     <a  a' >8  <a  c' >8  <d  b' >4  <d  c' >4  |
     <g  b  >2
-    \bar "|."
+%    \bar "|."
   }
 }
 
