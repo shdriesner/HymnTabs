@@ -36,7 +36,7 @@ versesVoiceOne = \lyricmode {
 versesVoiceTwo = \lyricmode {
   % Verse 3-4
   He put a new song in my mouth,
-  our God to mag- ni-fy;
+  our God to mag- ni- fy;
   Man- y shall see it, and shall fear,
   and on the Lord re- ly.
   O bless- ed is the man whose trust
@@ -50,7 +50,7 @@ versesVoiceThree = \lyricmode {
   O Lord my God, full man- y are
   the won- ders thou hast done;
   Thy grac- ious thoughts to us- ward far
-  a- bove all thought are gone:
+  a- bove all thoughts are gone:
   In or- der none can reck- on them
   to thee: if them de- clare,
   And speak of them I would, they more
@@ -160,12 +160,16 @@ MelodyVoicePart = \new Staff \with {
   midiInstrument = "Voice Oohs"
 } { \clef "treble_8" \MelodyVoice }
 \addlyrics { \versesVoiceOne }
+\addlyrics { \versesVoiceTwo }
+\addlyrics { \versesVoiceThree }
 
 SAVoicePart = \new Staff \with {
   instrumentName = "SA"
   midiInstrument = "Voice Oohs"
 } { \clef "treble_8" \SAVoice }
 \addlyrics { \versesVoiceOne }
+\addlyrics { \versesVoiceTwo }
+\addlyrics { \versesVoiceThree }
 
 TBVoicePart = \new Staff \with {
   instrumentName = "TB"
