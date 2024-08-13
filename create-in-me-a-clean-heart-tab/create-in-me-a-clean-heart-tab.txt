@@ -7,33 +7,33 @@ Words & Music by: Keith Green (based on Psalm 51:10-12)
 
 [ CHORDS ]
 
-  G       C9      D       Em      G7      B7
-  ==oo==  o==o==  xoo===  o==ooo  ==ooo=  x===o=
-  ||||||  ||||||  ||||||  ||||||  |||||O  ||O|||
-  |O||||  ||O|||  |||O|O  |OO|||  |O||||  |O|O|O
-  O|||OO  |O||OO  ||||O|  ||||||  O|||||  ||||||
-  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
+  G       C9      D       C       Em      G7      B7
+  ==oo==  o==o==  xoo===  o==o=o  o==ooo  ==ooo=  x===o=
+  ||||||  ||||||  ||||||  ||||O|  ||||||  |||||O  ||O|||
+  |O||||  ||O|||  |||O|O  ||O|||  |OO|||  |O||||  |O|O|O
+  O|||OO  |O||OO  ||||O|  |O||||  ||||||  O|||||  ||||||
+  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||||||
 
 [ INTRO ]
 
-| C  | D  | G  |
+| C9  | D  | G  |
 
 [ VERSE ]
-    G           D           C9 G
-Cre-ate in me a clean heart, O God,
-                   D               G
-And re-new a right spi-rit with-in me.
-    G           D           C9  G
-Cre-ate in me a clean heart, O  God,
-                   D               G
-And re-new a right spi-rit with-in me.
+    G           D           C9    G
+Cre-ate in me a clean heart,   O  God,
+G                    D               C9          G
+  And re-new a right spi-rit with-in me [with-in me].
+    G           D           C9    G
+Cre-ate in me a clean heart,   O  God,
+G                    D               C9          G
+  And re-new a right spi-rit with-in me [with-in me].
 
 [ CHORUS ]
-C9            D            G            Em
+C             D            G            Em
 Cast me not a-way from Thy pres-ence, O Lord
-    C9           D                  G    G7
+    C            D                  G    G7
 And take not Thy Ho-ly Spi-rit from me.
-   C9         D      B7             Em  C9
+   C          D      B7             Em  C
 Re-store unto me the joy of Thy sal-va--tion,
-                   D              G
+                   D              G    C9  G
 And re-new a right spi-rit within me.
