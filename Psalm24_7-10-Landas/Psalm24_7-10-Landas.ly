@@ -74,10 +74,10 @@ MelodyVoice = \relative c {
       <d  >8  <e  >8  <d  >4  <g  >4  |
       <fs >8  <e  >8  <e  >4  <e  >4  |
       <c' >8  <a  >8  <g  >4  <fs >4  |
-      <g  >2
+      <g  >2 r4
     }
   }
-  r4 <g>2. <g>2.
+  <g>2. <g>2.
   \bar "|."
 }
 
@@ -108,7 +108,7 @@ SAVoice = \relative c {
       <d  g  >2 r4
     }
   }
-  r4 <e  g  >2. <d  g  >2.
+  <e  g  >2. <d  g  >2.
   \bar "|."
 }
 
@@ -139,7 +139,7 @@ TBVoice = \relative c {
       <g  b  >2 r4
     }
   }
-  r4 <d  c'  >2. <g,  b'  >2.
+  <d  c'  >2. <g,  b'  >2.
   \bar "|."
 }
 
