@@ -65,29 +65,34 @@ versesVoiceThree = \lyricmode {
 MelodyVoice = \relative c {
   \global
   \dynamicUp
-  \repeat volta 2
   % Music follows here.
   {
-    r2 <d >4 |
-    % Verse 1
-    <d  >8  <e  >8  <d  >4  <g  >4  |
-    <fs >8  <e  >8  <e  >4  <e  >4  |
-    <c' >8  <a  >8  <g  >4  <fs >4  |
-    <g  >2                  <d  >4  |
-    <d  >8  <e  >8  <d  >4  <g  >4  |
-    <fs >8  <e  >8  <e  >4  <e  >4  |
-    <c' >8  <a  >8  <g  >4  <fs >4  |
-    <g  >2                  <d  >4  |
-    <g  >8  <b  >8  <d  >4  <b  >4  |
-    <b  >8  <a  >8  <a  >4  <b  >4  |
-    <g  >8  <fs >8  <e  >4  <a  >4  |
-    <g  >4         (<fs >4) <d  >4  |
-    <d  >8  <e  >8  <d  >4  <g  >4  |
-    <fs >8  <e  >8  <e  >4  <e  >4  |
-    <c' >8  <a  >8  <g  >4  <fs >4  |
-    <g  >2
-%    \bar "|."
+    r2
+    \repeat volta 2
+    {
+      <d >4 |
+      % Verse 1
+      <d  >8  <e  >8  <d  >4  <g  >4  |
+      <fs >8  <e  >8  <e  >4  <e  >4  |
+      <c' >8  <a  >8  <g  >4  <fs >4  |
+      <g  >2                  <d  >4  |
+      <d  >8  <e  >8  <d  >4  <g  >4  |
+      <fs >8  <e  >8  <e  >4  <e  >4  |
+      <c' >8  <a  >8  <g  >4  <fs >4  |
+      <g  >2                  <d  >4  |
+      <g  >8  <b  >8  <d  >4  <b  >4  |
+      <b  >8  <a  >8  <a  >4  <b  >4  |
+      <g  >8  <fs >8  <e  >4  <a  >4  |
+      <g  >4         (<fs >4) <d  >4  |
+      <d  >8  <e  >8  <d  >4  <g  >4  |
+      <fs >8  <e  >8  <e  >4  <e  >4  |
+      <c' >8  <a  >8  <g  >4  <fs >4  |
+      <g  >2
+    }
+    r4
   }
+  <g>2. <g>2.
+  \bar "|."
 }
 
 SAVoiceVerse = {
@@ -96,12 +101,12 @@ SAVoiceVerse = {
 SAVoice = \relative c {
   \global
   \dynamicUp
+  % Music follows here.
   {
-    r2 <b  d >4 |
+    r2    
     \repeat volta 2
-    % Music follows here.
     {
-      % Verse 1
+      <b  d >4 |
       <b  d  >8  <c  e  >8  <b  d  >4  <b  g' >4  |
       <d  fs >8  <c  e  >8  <c  e  >4  <d  e  >4  |
       <e  c' >8  <e  a  >8  <d  g  >4  <d  fs >4  |
@@ -117,8 +122,9 @@ SAVoice = \relative c {
       <b  d  >8  <c  e  >8  <b  d  >4  <b  g' >4  |
       <d  fs >8  <c  e  >8  <c  e  >4  <d  e  >4  |
       <e  c' >8  <e  a  >8  <d  g  >4  <d  fs >4  |
-      <d  g  >2 r4
+      <d  g  >2
     }
+    r4
   }
   <e  g  >2. <d  g  >2.
   \bar "|."
@@ -127,12 +133,12 @@ SAVoice = \relative c {
 TBVoice = \relative c {
   \global
   \dynamicUp
+  % Music follows here.
   {
-    r2 <g  g' >4 |
+    r2
     \repeat volta 2
-    % Music follows here.
     {
-      % Verse 1
+      <g  g' >4 |
       <g  g' >8  <g  g' >8  <g  g' >4  <g  g' >4  |
       <c  g' >8  <c  g' >8  <c  g' >4  <b  gs'>4  |
       <a  a' >8  <a  c' >8  <d  b' >4  <d  a' >4  |
@@ -148,8 +154,9 @@ TBVoice = \relative c {
       <g, g'  >8 <g  g' >8  <g  g' >4  <g  g' >4  |
       <c  g' >8  <c  g' >8  <c  g' >4  <b  gs'>4  |
       <a  a' >8  <a  c' >8  <d  b' >4  <d  c' >4  |
-      <g  b  >2 r4
+      <g  b  >2
     }
+    r4
   }
   <d  c'  >2. <g,  b'  >2.
   \bar "|."
