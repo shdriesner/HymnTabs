@@ -88,7 +88,7 @@ TBVoice = \relative c {
 
 Chords = \new ChordNames {
   \chordmode {
-    r1 <g>2 <g>1. <c>1. <g>1. <d>1. <g>1. <c>1 <g>2 <g>1 <d>2 <g>1.
+    r1 <g>2 <g>1. <c>1. <g>1. <d>1. <g>1. <c>1 <g>2 <g>1 <d>2 <g>1. <c>1. <g>1.
   }
 }
 
