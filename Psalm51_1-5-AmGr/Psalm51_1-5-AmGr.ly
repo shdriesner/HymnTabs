@@ -6,7 +6,7 @@
 
 \header {
   dedication = "For Covenant Community Church and the Glory of God"
-  title = "Psalm 34:17-22 -- The Psalms of David in Metre, pp. 60-61"
+  title = "Psalm 51:1-5 - The Psalms of David in Metre, pg 101"
   subtitle = "(tune: Amazing Grace - Capo 3)"
   instrument = "Voice"
   composer = "Traditional"
@@ -22,43 +22,35 @@ global = {
 }
 
 versesVoiceOne = \lyricmode {
-  % Verse 17
-  The right- eous cry un- to the Lord,
-  he un- to them gives ear;
-  And they out of their trou- bles all 
-  by him de- liv- er'd are.
+  % Verse 1
+  AF- TER thy lov- ing- kind- ness, Lord,
+  have mer- cy up- on me:
+  For thy com- pass- ions great, blot out
+  all mine in- i- qui- ty.
 }
 
 versesVoiceTwo = \lyricmode {
-  % Verse 18
-  The Lord is ev- er nigh to them
-  that be of bro- ken sp'rit
-  To them he safe- ty doth af- ford
-  that are in heart con- trite.
+  % Verses 2-3
+  Me cleanse from sin, and through- ly wash
+  from mine in- i- qui- ty:
+  For my trans- gress- ions I con- fess;
+  my sin I ev- er see.
 }
 
 versesVoiceThree = \lyricmode {
-  % Verse 19
-  The trou- bles that af- flict the just
-  in num- ber man- y be;
-  But yet at length out of them all
-  the Lord doth set him free.
+  % Verse 4
+  'Gainst thee, thee on- ly, have I sinn'd,
+  in thy sight done this ill;
+  That when thou speak'st thou may'st be just,
+  and clear in judg- ing still.
 }
 
 versesVoiceFour = \lyricmode {
-  % Verse 20
-  He care- ful- ly his bones doth keep
-  what- ev -er can be- fall;
-  That not so much as one of them
-  can bro- ken be at all.
-}
-
-versesVoiceFive = \lyricmode {
-  % Verse 21-22
-  Ill shall the wick- ed slay; laid waste
-  shall be who hate the just.
-  The Lord re- deems his ser- vants' souls;
-  none per- ish that him trust.
+  % Verse 5
+  Be- hold, I in in- i- qui- ty
+  was form'd the womb with- in;
+  My moth- er al- so me con- ceiv'd
+  in guilt- i- ness and sin.
   A- men  
 }
 
@@ -123,7 +115,6 @@ SAVoicePart = \new Staff \with {
 \addlyrics { \versesVoiceTwo }
 \addlyrics { \versesVoiceThree }
 \addlyrics { \versesVoiceFour }
-\addlyrics { \versesVoiceFive }
 
 TBVoicePart = \new Staff \with {
   instrumentName = "TB"
