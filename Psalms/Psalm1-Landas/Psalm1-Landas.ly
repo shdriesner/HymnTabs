@@ -37,7 +37,7 @@ versesVoiceTwo = \lyricmode {
   % Verse 3-4
   He shall be like a tree that grows
   near plant- ed by a riv'r,
-  Which in his seas- on yields its fruit,
+  Which in his seas- on yields his fruit,
   and his leaf fad- eth nev'r;
   And all he doth shall pros- per well.
   The wick- ed are not so;
