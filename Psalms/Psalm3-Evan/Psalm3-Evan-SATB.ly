@@ -6,7 +6,7 @@
 
 \header {
   dedication = "For Covenant Community Church and the Glory of God"
-  title = "Psalm 2:7-12 -- The Psalms of David in Metre, pages 2-3"
+  title = "Psalm 3 -- The Psalms of David in Metre, pg 3"
   subtitle = "(tune: Evan - Capo 1)"
   instrument = "Voice"
   composer = "Traditional"
@@ -22,43 +22,43 @@ global = {
 }
 
 versesVoiceOne = \lyricmode {
-  % Verse 7
-  THE sure de- cree I will de- clare;
-  the Lord hath said to me,
-  Thou art mine on- ly Son; this day
-  I have be- got- ten thee.
+  % Verse 1-2
+  O LORD, how are my foes in- creas'd?
+  a- gainst me ma- ny rise.
+  Ma- ny say of my soul, For him
+  in God no suc- cour lies.
 }
 
 versesVoiceTwo = \lyricmode {
-  % Verse 8
-  Ask of me, and for her- i- tage
-  the heath- en I'll make thine;
-  And, for poss- ess- ion, I to thee
-  will give earth's ut- most line.
+  % Verse 3-4
+  Yet thou my shield and glo- ry art,
+  th'up- lift- er of mine head.
+  I cried, and, from his ho- ly hill,
+  the Lord me an- swer made.
 }
 
 versesVoiceThree = \lyricmode {
-  % Verse 9
-  Thou shalt, as with a weight- y rod
-  of ir- on, break them all;
-  And, as a pot- ter's sherd, thou shalt
-  them dash in pie- ces small.
+  % Verse 5-6
+  I laid me down and slept; I wak'd,
+  for God sus- tain- ed me.
+  I will not fear though thou- sands ten
+  set round a- gainst me be.
 }
 
 versesVoiceFour = \lyricmode {
-  % Verses 10-11
-  Now there- fore, kings, be wise; be taught,
-  ye judg- es of the earth
-  Serve God in fear, and see that ye
-  join tremb- ling with your mirth.
+  % Verse 7
+  A- rise, O Lord; save me, my God;
+  for thou my foes hast stroke
+  All on the cheek- bone, and the teeth
+  of wick- ed men hast broke.
 }
 
 versesVoiceFive = \lyricmode {
-  % Verse 12
-  Kiss ye the Son, lest in his ire
-  ye per- ish from the way,
-  If once his wrath be- gin to burn:
-  bless'd all that on him stay.
+  % Verse 8
+  Sal- va- ti- on doth app- er- tain
+  un- to the Lord a- lone:
+  Thy bless- ing, Lord, for e- ver- more
+  thy peo- ple is up- on.
   A- men.
 }
 
