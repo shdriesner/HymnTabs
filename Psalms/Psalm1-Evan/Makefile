@@ -1,11 +1,7 @@
-PASSAGE=$(shell basename -a $(PWD) 2>/dev/null)
-TUNE=Evan
-
-SONG=$(PASSAGE)-$(TUNE)-SATB
-LY=$(SONG:%=%.ly)
-LOG=$(SONG:%=%.log)
-PDF=$(SONG:%=%.pdf)
-MID=$(SONG:%=%.mid)
+LY=$(shell find -maxdepth 1 -mindepth 1 -name '*.ly' -type f 2>/dev/null | sort)
+LOG=$(LY:%.ly=%.log)
+PDF=$(LY:%.ly=%.pdf)
+MID=$(LY:%.ly=%.mid)
 
 all: $(PDF) $(MID)
 	@echo LY=$(LY)
