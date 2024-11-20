@@ -3,41 +3,50 @@ Before the Throne of God Above (Blue Hymnal #448)
 
 Words & Music: Vikki Cook and Charitie Lees Bancroft
 
-[ CAPO 5 ]
+[ CHORDS: D maj – NO CAPO ]       D       G       A       Bm
+                                  xoo===  ==oo==  oo===o  ======
+                                  ||||||  ||||||  ||||||  ||||||
+                                  |||O|O  |O||||  ||OOO|  OO|||O
+                                  ||||O|  O|||OO  ||||||  ||||O|
+                                  ||||||  ||||||  ||||||  ||OO||
 
-[ CHORDS ]
-G       C9      D       Em
-==oo==  o==o==  xoo===  o==ooo
-||||||  ||||||  ||||||  ||||||
-|O||||  ||O|||  |||O|O  |OO|||
-O|||OO  |O||OO  ||||O|  ||||||
-||||||  ||||||  ||||||  ||||||
-
-[ INTRO ]
-| C9  | Em  | C9  | G  |
+[ INTRO ]                         | G  | Bm  | G  | D  |
 
 [ VERSE 1 ]
-            G         C9    G                                  D
+
+            D         G     D                                  A
 Be-fore the throne of God a-bove  I have a strong and per-fect plea;
-             C9           D       Em              C9                   G
+             G            A       Bm              G                    D
 A great High Priest whose name is Love, who ev-er lives and pleads for me.
-           C9             D                  C9          D   Em
+           G              A                  G        A      Bm
 My name is grav-en on His hands,  My name is writ-ten on His heart.
-            C9       D         Em                    C9               Em
+            G        A         Bm                    G                Bm
 I know that while in heav'n He stands  No tongue can bid me thence de-part,
-              C9               G
+              G               D
 No tongue can bid me thence de-part
 
 [ VERSE 2 ]
+
+            D         G     D                                     A
 When Sa-tan tempts me to de-spair  And tells me of the guilt with-in,
+          G        A       Bm                 G             D
 Up-ward I look and see Him there  Who made an end of all my sin.
-Be-cause the sin-less Sav-ior died  My sin-ful soul is counted free;
+             G                A                G       A        Bm
+Be-cause the sin-less Sav-ior died  My sin-ful soul is count-ed free;
+            G       A      Bm               G               Bm
 For God the just is sat-is-fied  To look on Him and par-don me,
+           G               D
 To look on Him and par-don me
 
 [ VERSE 3 ]
+
+            D          G      D                                       A
 Be-hold Him there, the ris-en Lamb,  My per-fect spot-less right-eous-ness.
+             G        A     Bm               G             D
 The great un-change-a-ble I AM,  The King of glo-ry and of grace.
+             G              A                G          A      Bm
 One with Him-self I can-not die;  My soul is pur-chased by His blood.
+           G        A         Bm                     G              Bm
 My life is hid with Christ on high,  With Christ, my Sav-ior and my God,
+                G              D
 With Christ, my Sav-ior and my God.
