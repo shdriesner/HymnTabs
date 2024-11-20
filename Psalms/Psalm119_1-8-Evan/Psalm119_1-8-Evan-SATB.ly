@@ -6,11 +6,11 @@
 
 \header {
   dedication = "For Covenant Community Church and the Glory of God"
-  title = "Psalm 109:1-7 -- The Psalms of David in Metre, pg. 232-233"
-  subtitle = "(tune: Evan - capo 1)"
+  title = "Psalm 119:1-8 -- The Psalms of David in Metre, pg 247-248"
+  subtitle = "(tune: Evan - Capo 1)"
   instrument = "Voice"
   composer = "Traditional"
-  arranger = "Transposed. Stefan Driesner - October 2024"
+  arranger = "Transposed. Stefan Driesner - November 2024"
   meter = ""
   copyright = "Copyright 2024 - All Rights Reserved"
 }
@@ -22,51 +22,51 @@ global = {
 }
 
 versesVoiceOne = \lyricmode {
-  % Verses 1-2a
-  O THOU the God of all my praise
-  do thou not hold thy peace;
-  For mouths of wick- ed men to speak
-  a- gainst me do not cease:
+  % Verses 1
+  Bless- ed are they that un- de- fil'd
+  and straight are in the way;
+  Who in the Lord's most ho- ly law
+  do walk, and do not stray.
 }
 
 versesVoiceTwo = \lyricmode {
-  % Verse 2b
-  The mouths of vile de- ceit- ful men
-  a- gainst me o- pen'd be;
-  And with a false and ly- ing tongue
-  they have ac- cus- ed me.
+  % Verse 2
+  Bless- ed are they who to ob- serve
+  his stat- utes are in- clin'd;
+  And who do seek the liv- ing God
+  with their whole heart and mind.
 }
 
 versesVoiceThree = \lyricmode {
-  % Verse 3
-  They did be- set me round a- bout
-  with words of hate- ful spite:
-  And though to them no cause I gave,
-  a- gainst me they did fight.
+  % Verse 3-4
+  Such in his ways do walk, and they
+  do no in- i- qui- ty.
+  Thou hast com- mand- ed us to keep
+  thy pre- cepts care- ful- ly.
 }
 
 versesVoiceFour = \lyricmode {
-  % Verses 4-5
-  They for my love be- came my foes,
-  but I me set to pray.
-  E- vil for good, hat- red for love,
-  to me they did re- pay.
+  % Verses 5-6
+  O that thy stat- utes to ob- serve
+  thou would'st my ways di- rect!
+  Then shall I not be sham'd, when I
+  thy pre- cepts all re- spect.
 }
 
 versesVoiceFive = \lyricmode {
-  % Verse 6
-  Set thou the wick- ed o- ver him;
-  and u- pon his right hand
-  Give thou his great- est en- e- my,
-  ev/n Sa- tan, leave to stand.
+  % Verse 7
+  Then with in- teg- ri- ty of heart
+  thee will I praise and bless,
+  When I the judge- ments all have learn'd
+  of thy pure right- eous- ness.
 }
 
 versesVoiceSix = \lyricmode {
-  % Verse 7
-  And when by thee he shall be judg'd
-  let him con- demn- ed be;
-  And let his pray'r be turn'd to sin,
-  when he shall call on thee.
+  % Verse 8
+  That I will keep thy stat- utes all
+  firm- ly re- solv'd have I:
+  O do not then, most gra- cious God,
+  for- sake me ut- ter- ly.
   A- men.
 }
 
@@ -156,4 +156,3 @@ TBVoicePart = \new Staff \with {
 %      }
 %    }
 %  }
-%}

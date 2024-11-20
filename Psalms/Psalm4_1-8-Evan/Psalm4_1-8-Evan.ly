@@ -147,6 +147,7 @@ TBVoicePart = \new Staff \with {
     \SAVoicePart
     \TBVoicePart
   >>
+  \layout { }
   \midi {
     \context {
       \Score
