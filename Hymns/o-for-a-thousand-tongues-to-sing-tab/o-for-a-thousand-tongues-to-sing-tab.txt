@@ -4,37 +4,38 @@ O, For a Thousand Tongues to Sing (Blue Hymnal #136)
 Words: Charles Wesley
 Music: Carl G. Glaser; arr. Lowell Mason
 
-[ CHORDS ]
-  G        D        C9   
-  ==oo==   xoo===   o==o==
-  ||||||   ||||||   ||||||
-  |O||||   |||O|O   ||O|||
-  O|||OO   ||||O|   |O||OO
-  ||||||   ||||||   ||||||
+[ NO CAPO ]   [ CHORDS ]   G        D        C9
+                           ==oo==   xoo===   o==o==
+                           ||||||   ||||||   ||||||
+                           |O||||   |||O|O   ||O|||
+                           O|||OO   ||||O|   |O||OO
 
-[ INTRO ]
-| G  | C9  | G D | G  |
+[ INTRO ]    | G  | C9  | G  | D G  |
 
 [ VERSE 1 ]
-  G                                                      D
-O for a thou-sand tongues to sing  my great Re-deem-er's praise,
-    G              C9                  G            D   G
-the glo-ries of my God and King,   the tri-umphs of his grace.
+  G
+O for a thou - sand tongues to sing
+                          D
+My great Re - deem - er's praise,
+    G                C9
+the glo - ries of my God and King,
+    G              D   G
+The tri - umphs of his grace.
 
 [ VERSE 2 ]
-   G                                               D
-My gra-cious Mas-ter and my God, as-sist me to pro-claim,
-   G                      C9                 G          D   G
-to spread through all the earth a-broad, the hon-ors of thy name.
+My gra - cious Mas - ter and my God,
+As - sist me to pro - claim,
+To spread through all the earth a – broad,
+The hon - ors of thy name.
 
 [ VERSE 3 ]
-     G                                                         D
-Je-sus, the name that charms our fears, that bids our sor-rows cease;
-     G             C9                   G               D   G
-'Tis mu-sic in the sin-ner's ears; 'tis life and health and peace.
+Je - sus, the name that charms our fears,
+That bids our sor - rows cease;
+'Tis mu - sic in the sin - ner's ears;
+'Tis life and health and peace.
 
 [ VERSE 4 ]
-   G                                                         D
-He breaks the pow'r of can-celled sin, he sets the pris-'ner free;
-    G                  C9                  G              D   G
-His blood can make the foul-est clean, His blood a-vailed for me.
+He breaks the pow'r of can - celled sin,
+He sets the pris - 'ner free;     
+His blood can make the foul - est clean,
+His blood a - vailed for me.
