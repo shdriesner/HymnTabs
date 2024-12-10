@@ -2,49 +2,59 @@ A Mighty Fortress Is Our God (Blue Hymnal, #656)
 ================================================
 Public Domain. Words and music: Martin Luther.
 
-[ CAPO 3 (Bb) or CAPO 5 (C) ]
+[ CHORDS ] G       D       Em      A       C       Am      B      [ CAPO 5 (C) ]
+           ==oo==  xoo===  o==ooo  oo===o  o==o==  oo===o  ======
+           ||||||  ||||||  ||||||  ||||||  ||||||  ||||O|  ||||||
+           |O||||  X||O|O  |OO|||  ||OOO|  ||O|||  ||OO||  OO|||O
+           O|||OO  ||||O|  ||||||  ||||||  |O||OO  ||||||  ||||||
+           ||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||OOO|
 
-[ CHORDS ]
-G       D       Em      A       C       Am      B
-==oo==  xoo===  o==ooo  oo===o  o==o==  oo===o  ======
-||||||  ||||||  ||||||  ||||||  ||||||  ||||O|  ||||||
-|O||||  X||O|O  |OO|||  ||OOO|  ||O|||  ||OO||  OO|||O
-O|||OO  ||||O|  ||||||  ||||||  |O||OO  ||||||  ||||||
-||||||  ||||||  ||||||  ||||||  ||||||  ||||||  ||OOO|
-
-
-[ INTRO ]
-| Em G  | C D G  |
+[ INTRO ]  | Em G  | C D G  |
 
 [ VERSE 1 ]
 G           D         Em A   D        Em       G      C   D G
-  A might-y fort-ress is our God,  A  bul-wark ne-ver fai---ling;
+  A might-y fort-ress is our God,  A  bul-wark ne-ver fai - ling;
 G             D     Em  A   D         Em      G        C   D G
-  Our help-er He, a-mid the flood  Of mor-tal ills pre-vai---ling;
+  Our help-er He, a-mid the flood  Of mor-tal ills pre-vai - ling;
     Em        A        D        G       C       Em
 For still our an-cient foe doth seek to work us woe;
     Em        A         D           Em         Am     B
 His craft and power are great, and, armed with cru-el hate,
 Em             G       C D G
-   On earth is not his e---qual.
+   On earth is not his e - qual.
 
 [ VERSE 2 ]
-Did we in our own strength confide, Our striving would be losing
-Were not the right Man on our side, The Man of God’s own choosing:
+G           D       Em       A     D         Em       G        C  D G
+  Did we in our own strength con - fide, Our striving would be lo – sing
+G              D         Em A   D         Em     G         C    D G
+  Were not the right Man on our side, The Man of God’s own choo – sing:
+     Em      A        D          G      C     Em
 Dost ask who that may be? Christ Jesus, it is He;
-Lord Sabbaoth, His name, from age to age the same,
-And He must win the battle.
+     Em     A        D          Em     Am      B
+Lord Sabb-a-oth, His name, from age to age the same,
+Em            G       C   D G
+  And He must win the bat - tle.
 
 [ VERSE 3 ]
-And though this world, with devils filled, Should threaten to undo us,
-We will not fear, for God hath willed His truth to triumph through us:
+G                 D           Em  A   D              Em       G     C D G
+  And though this world, with dev-ils filled, Should threaten to un-do- us,
+G             D         Em  A    D          Em       G       C     D G
+  We will not fear, for God hath willed His truth to triumph through us:
+    Em        A        D        G       C       Em
 The Prince of Darkness grim, we tremble not for him;
+    Em      A     D         Em      Am      B
 His rage we can endure, for lo, his doom is sure,
-One little word shall fell him.
+Em           G          C   D G
+  One little word shall fell- him.
 
 [ VERSE 4 ]
-That word above all earthly powers, No thanks to them, abideth;
-The Spirit and the gifts are ours Through Him Who with us sideth;
-Let goods and kindred go, this mortal life also;
-The body they may kill: God’s truth abideth still,
-His kingdom is forever.
+G            D        Em    A  D          Em        G       C  D G
+  That word above all earth-ly powers, No thanks to them, a-bi - deth;
+G            D       Em    A   D            Em      G       C  D G
+  The Spirit and the gifts are ours Through Him Who with us si - deth;
+    Em        A       D        G      C       Em
+Let goods and kindred go, this mortal life al-so;
+    Em   A        D           Em      Am      B
+The body they may kill: God’s truth a-bi-deth still,
+Em            G        C D G
+  His kingdom is for - e - ver.
