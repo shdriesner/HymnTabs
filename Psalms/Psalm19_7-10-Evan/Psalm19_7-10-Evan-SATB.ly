@@ -10,9 +10,9 @@
   subtitle = "(tune: Evan - Capo 1)"
   instrument = "Voice"
   composer = "Traditional"
-  arranger = "Transposed. Stefan Driesner - Nov 2023"
+  arranger = "Transposed. Stefan Driesner - December 2024"
   meter = ""
-  copyright = "Copyright 2023 - All Rights Reserved"
+  copyright = "Copyright 2024 - All Rights Reserved"
 }
 
 global = {
@@ -21,7 +21,7 @@ global = {
   \time 3/2
 }
 
-versesVoice = \lyricmode {
+versesVoiceOne = \lyricmode {
   % Verse 1
   God's law is per- fect and con- verts
   the soul in sin that lies;
@@ -29,18 +29,49 @@ versesVoice = \lyricmode {
   and makes the sim- ple wise.
 }
 
+versesVoiceTwo = \lyricmode {
+  % Verse 8
+  The stat- utes of the Lord are right,
+  and do re- joice the heart:
+  The Lord's com- mand is pure, and doth
+  light to the eyes im- part
+}
+
+versesVoiceThree = \lyricmode {
+  % Verse 9
+  Un- spot- ted is the fear of God
+  and doth en- dure for- ever:
+  The judge- ments of the Lord are true
+  and right- eous al- to- gether.
+}
+
+versesVoiceFour = \lyricmode {
+  % Verse 10
+  They more than gold, yea, much fine gold,
+  to be de- sir- ed are:
+  Than hon- ey, hon- ey from the comb
+  that drop- peth sweet- er far.
+  A- men.
+}
+
 SAVoice = \relative c {
   \global
   \dynamicUp
   % Music follows here.
   {
-    r1                               <ef  c  >2^\markup { \fret-diagram "6-3;5-2;4-o;3-o;2-3;1-3;" } |
-    % Verse 1
-    <c   ef >4 <c   af'>4 <ef  c'>2  <df  bf'>2 | < c  af'>4^\markup { \fret-diagram "6-x;5-3;4-2;3-o;2-3;1-3;" } <df   f >4 < c  ef >2  < c  ef >2 |
-    <c   ef >4^\markup { \fret-diagram "6-3;5-2;4-o;3-o;2-3;1-3;" } <c   af'>4 <c   c'>2  < c  af'>2 | <ef  bf'>1^\markup { \fret-diagram "6-x;5-o;4-o;3-2;2-3;1-2;" }                        <ef  df'>2 |
-    <ef  c '>4^\markup { \fret-diagram "6-3;5-2;4-o;3-o;2-3;1-3;" } <df  bf'>4 <c  af'>2  <ef  bf'>2 | <ef  c '>4^\markup { \fret-diagram "6-x;5-3;4-2;3-o;2-3;1-3;" } <ef  af >4 <df   f >2  <bf  ef >2^\markup { \fret-diagram "6-3;5-2;4-o;3-o;2-3;1-3;" } |
-    <c   ef >4 <c   af'>4 <ef c '>2  <df  bf'>2^\markup { \fret-diagram "6-x;5-o;4-o;3-2;2-3;1-2;" } | <c   af'>1^\markup { \fret-diagram "6-3;5-2;4-o;3-o;2-3;1-3;" }                             \bar "|."
+    r1
+    \repeat volta 2
+    {
+      <ef  c  >2 |
+      <c   ef >4 <c   af'>4 <ef  c'>2  <df  bf'>2 | < c  af'>4 <df   f >4 < c  ef >2  < c  ef >2 |
+      <c   ef >4 <c   af'>4 <c   c'>2  < c  af'>2 | <ef  bf'>1                        <ef  df'>2 |
+      <ef  c '>4 <df  bf'>4 <c  af'>2  <ef  bf'>2 | <ef  c '>4 <ef  af >4 <df   f >2  <bf  ef >2 |
+      <c   ef >4 <c   af'>4 <ef c '>2  <df  bf'>2 | <c   af'>1
+    }
+    r2
   }
+  <df  af' >1. <c  af' >1.
+  \bar "|."
 }
 
 TBVoice = \relative c {
@@ -48,18 +79,24 @@ TBVoice = \relative c {
   \dynamicUp
   % Music follows here.
   {
-    r1                                <af  af'>2 |
-    % Verse 1
-    <af  af'>4 <af  af'>4 <af  af'>2  <ef' g  >2 | <f   af >4 <df  af'>4 <af  af'>2 <af  af'>2 |
-    <af  af'>4 <    af'>4 <f   af >2  <f   af >2 | <ef  g  >1                       <g   bf >2 |
-    <    af >4 <ef  g  >4 <f   af >2  <ef  g  >2 | <    af >4 <c , af'>4 <df  af'>2 <ef  g  >2 |
-    <af, af'>4 <f ' af >4 <ef  af >2  <ef  g  >2 | <af, af'>1                          \bar "|."
+    r1
+    \repeat volta 2
+    {
+      <af  af'>2 |
+      <af  af'>4 <af  af'>4 <af  af'>2  <ef' g  >2 | <f   af >4 <df  af'>4 <af  af'>2 <af  af'>2 |
+      <af  af'>4 <    af'>4 <f   af >2  <f   af >2 | <ef  g  >1                       <g   bf >2 |
+      <    af >4 <ef  g  >4 <f   af >2  <ef  g  >2 | <    af >4 <c , af'>4 <df  af'>2 <ef  g  >2 |
+      <af, af'>4 <f ' af >4 <ef  af >2  <ef  g  >2 | <af, af'>1
+    }
+    r2
   }
+  <df  f  >1. <af  ef' >1.
+  \bar "|."
 }
 
 Chords = \new ChordNames {
   \chordmode {
-    r1 <g>2 <g>1. <c>1. <g>1. <d>1. <g>1. <c>1 <g>2 <g>1 <d>2 <g>1.
+    r1 <af>2 <af>1. <df>1. <af>1. <ef>1. <af>1. <df>1 <af>2 <af>1 <ef>2 <af>1. <df>1. <af>1.
   }
 }
 
@@ -67,7 +104,10 @@ SAVoicePart = \new Staff \with {
   instrumentName = "SA"
   midiInstrument = "Voice Oohs"
 } { \clef "treble_8" \SAVoice }
-\addlyrics { \versesVoice }
+\addlyrics { \versesVoiceOne }
+\addlyrics { \versesVoiceTwo }
+\addlyrics { \versesVoiceThree }
+\addlyrics { \versesVoiceFour }
 
 TBVoicePart = \new Staff \with {
   instrumentName = "TB"
@@ -94,20 +134,10 @@ TBVoicePart = \new Staff \with {
     {
       \column {
         \left-align {
-  	  "8  The stat-utes of the Lord are right,"
-	  "     and do re-joice the heart:"
-	  "   The Lord's com-mand is pure, and doth"
-	  "     light to the eyes im-part."
-	  "                  ---"
-	  "9  Un-spot-ted is the fear of God"
-  	  "     and doth en-dure for-ever:"
-  	  "   The judge-ments of the Lord are true"
-  	  "     and right-eous al-to-gether."
-	  "                  ---"
-	  "10 They more than gold, yea, much fine gold,"
-  	  "     to be de-sir-ed are:"
-  	  "   Than hon-ey, hon-ey from the comb"
-  	  "     that drop-peth sweet-er far."
+	" Guitar w/Capo 1:"
+	" Ab   => G"
+	" Db   => C"
+	" Eb   => D"
         }
       }
     }
