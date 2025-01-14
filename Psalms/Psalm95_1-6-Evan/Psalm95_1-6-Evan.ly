@@ -7,7 +7,7 @@
 \header {
   dedication = "For Covenant Community Church and the Glory of God"
   title = "Psalm 95:1-6 - The Psalms of David in Metre, pg 195"
-  subtitle = "(tune: Amazing Grace - Capo 3)"
+  subtitle = "(tune: Evan - Capo 1)"
   instrument = "Voice"
   composer = "Traditional"
   arranger = "Transposed. Stefan Driesner - January 2025"
@@ -16,9 +16,9 @@
 }
 
 global = {
-  \key f \major
+  \key af \major
   \numericTimeSignature
-  \time 3/4
+  \time 3/2
 }
 
 versesVoiceOne = \lyricmode {
@@ -67,58 +67,44 @@ SAVoice = \relative c {
   \dynamicUp
   % Music follows here.
   {
-    r2
+    r1
     \repeat volta 2
     {
-      <a  c  >4 |
-      % Verse 1
-      <a   f' >2 <c  a' >8( <c  f>8)  | < c  a'>2 <bf g' >4  | <a f' >2 <bf d>4 | <a  c>2 <a  c>4 |
-      <a   f' >2 <c  a' >8( <c  f>8)  | < c  a'>2 <c g' >4   | <c  c'>2.( | <c  c'>2 ) <c a' >4 |
-      <c c'>4.(<c a'>8) <c c'>8(<c a'>8) | <c f >2 <c>4  | <bf d>4.(<c  f>8) <bf f'>8(<bf d>8) |
-      <a c>2 <c>4 | <a   f' >2 <c  a' >8( <c  f>8)  | < c  a'>2 <bf g' >4  | <c f>2.( <c f>2 )
+      <ef  c  >2 |
+      <c   ef >4 <c   af'>4 <ef  c'>2  <df  bf'>2 | < c  af'>4 <df   f >4 < c  ef >2  < c  ef >2 |
+      <c   ef >4 <c   af'>4 <c   c'>2  < c  af'>2 | <ef  bf'>1                        <ef  df'>2 |
+      <ef  c '>4 <df  bf'>4 <c  af'>2  <ef  bf'>2 | <ef  c '>4 <ef  af >4 <df   f >2  <bf  ef >2 |
+      <c   ef >4 <c   af'>4 <ef c '>2  <df  bf'>2 | <c   af'>1
     }
+    r2
   }
-  r4 <d  f  >2. <c  f  >2.
+  <df  af' >1. <c  af' >1.
   \bar "|."
 }
 
-TBVoice = \relative {
+TBVoice = \relative c {
   \global
   \dynamicUp
   % Music follows here.
   {
-    r2
+    r1
     \repeat volta 2
     {
-      <f  f'  >4 |
-      % Verse 1
-      <f c'>2 <f  f' >8( <a  f'>8)  | < c  f>2 < c e >4  | <d f >2 <bf f'>4 | <f  f'>2 <f  f'>4 |
-      <f   c' >2 <f  f' >8( <a  f'>8)  | < c  f>2 <bf e >4   | <a  f'>2.( | <a  f'>2 ) <f f' >4 |
-      <f' a>4.(<f>8) <f a>8(<f>8) | \relative c' <a f' >2 \relative c' <a f'>4  | \relative c' <bf f'>4.( \relative c' <a  f'>8) \relative c' <bf d>8(\relative c' <bf f'>8) |
-      \relative c <f f'>2 \relative c' <a f'>4 | \relative c' <d f >2 \relative c' <c  f >8( \relative c' <c  a'>8)  | \relative c' < c  c'>2 \relative c' <c bf' >4  | \relative c' <f a>2.( \relative c' <f a>2 )
+      <af  af'>2 |
+      <af  af'>4 <af  af'>4 <af  af'>2  <ef' g  >2 | <f   af >4 <df  af'>4 <af  af'>2 <af  af'>2 |
+      <af  af'>4 <    af'>4 <f   af >2  <f   af >2 | <ef  g  >1                       <g   bf >2 |
+      <    af >4 <ef  g  >4 <f   af >2  <ef  g  >2 | <    af >4 <c , af'>4 <df  af'>2 <ef  g  >2 |
+      <af, af'>4 <f ' af >4 <ef  af >2  <ef  g  >2 | <af, af'>1
     }
+    r2
   }
-  r4 <bf,  bf'  >2. <f'  a  >2.
+  <df  f  >1. <af  ef' >1.
   \bar "|."
 }
 
-%Chords = \new ChordNames {
-%  \chordmode {
-%    r2 <d>4 <d>2. <d>2. <g>2. <d>2.
-%    <d>2. <d>2. <a>2. <a>2.
-%    <d>2. <d>2. <g>2. <d>2.
-%    b2.:m <a>2. <d>2. <d>2
-%    r4 <g>2. <d>2.
-%  }
-%}
-
 Chords = \new ChordNames {
   \chordmode {
-    r2 <f>4 <f>2. <f>2. <bf>2. <f>2.
-    <f>2. <f>2. <c>2. <c>2.
-    <f>2. <f>2. <bf>2. <f>2.
-    d2.:m <c>2. <f>2. <f>2
-    r4 <bf>2. <f>2.
+    r1 <af>2 <af>1. <df>1. <af>1. <ef>1. <af>1. <df>1 <af>2 <af>1 <ef>2 <af>1. <df>1. <af>1.
   }
 }
 
@@ -135,7 +121,7 @@ SAVoicePart = \new Staff \with {
 TBVoicePart = \new Staff \with {
   instrumentName = "TB"
   midiInstrument = "Voice Oohs"
-} { \clef "bass^8" \TBVoice }
+} { \clef bass \TBVoice }
 
 \score {
   <<
@@ -147,7 +133,7 @@ TBVoicePart = \new Staff \with {
   \midi {
     \context {
       \Score
-      tempoWholesPerMinute = #(ly:make-moment 100 4)
+      tempoWholesPerMinute = #(ly:make-moment 100 2)
     }
   }
 }
@@ -157,11 +143,10 @@ TBVoicePart = \new Staff \with {
     {
       \column {
         \left-align {
-	" Guitar w/Capo 3:"
-	" F    => D"
-	" Bb  => G"
-	" C    => A"
-	" Dm => Bm"
+	" Guitar w/Capo 1:"
+	" Ab   => G"
+	" Db   => C"
+	" Eb   => D"
         }
       }
     }
