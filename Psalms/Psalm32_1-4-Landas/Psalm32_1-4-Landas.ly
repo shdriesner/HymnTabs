@@ -34,7 +34,7 @@ versesVoiceOne = \lyricmode {
 }
 
 versesVoiceTwo = \lyricmode {
-  % Verse 4b-5
+  % Verse 3-4
   When as I did re- frain my speech,
   and si- lent was my tongue,
   My bones then wax- ed old, be- cause
