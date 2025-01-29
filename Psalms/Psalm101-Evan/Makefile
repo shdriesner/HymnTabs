@@ -1,28 +1,15 @@
-SONG=Psalm101-Evan-SATB
-SONG_LY=$(SONG:%=%.ly)
-SONG_LOG=$(SONG:%=%.log)
-SONG_PDF=$(SONG:%=%.pdf)
-SONG_MID=$(SONG:%=%.mid)
+LY=$(shell find -maxdepth 1 -mindepth 1 -name '*.ly' -type f 2>/dev/null | sort)
+LOG=$(LY:%.ly=%.log)
+PDF=$(LY:%.ly=%.pdf)
+MID=$(LY:%.ly=%.mid)
 
-SOLO=Psalm101-Evan-Melody
-SOLO_LY=$(SOLO:%=%.ly)
-SOLO_LOG=$(SOLO:%=%.log)
-SOLO_PDF=$(SOLO:%=%.pdf)
-SOLO_MID=$(SOLO:%=%.mid)
-
-all: $(SONG_PDF) $(SONG_MID) $(SOLO_PDF) $(SOLO_MID)
-	@echo SONG_LY=$(SONG_LY)
-	@lilypond $(SONG_LY) 2>&1 | tee $(SONG_LOG)
-	@echo SOLO_LY=$(SOLO_LY)
-	@lilypond $(SOLO_LY) 2>&1 | tee $(SOLO_LOG)
+all: $(PDF) $(MID)
+	@echo LY=$(LY)
+	@lilypond $(LY) 2>&1 | tee $(LOG)
 
 clean:
-	-rm -f $(SONG_PDF) $(SONG_MID) $(SOLO_PDF) $(SOLO_MID)
+	-rm -f $(PDF) $(MID)
 
-$(SONG_PDF): $(SONG_LY)
+$(PDF): $(LY)
 
-$(SONG_MID): $(SONG_LY)
-
-$(SOLO_PDF): $(SOLO_LY)
-
-$(SOLO_MID): $(SOLO_LY)
+$(MID): $(LY)
