@@ -40,7 +40,7 @@ versesVoiceTwo = \lyricmode {
 versesVoiceThree = \lyricmode {
   % Verse 3
   I will en- dure no wick- ed thing
-  be- fore mine eys to be:
+  be- fore mine eyes to be:
   I hate their work that turn a- side,
   it shall not cleave to me.
 }
