@@ -23,7 +23,7 @@ global = {
 
 versesVoiceOne = \lyricmode {
   % Verse 1
-  LORD, thee my God, I'll ear- ly seek
+  LORD, thee my God, I'll ear- ly seek:
   my soul doth thirst for thee;
   My flesh longs in a dry parch'd land,
   where- in no wa- ters be:
