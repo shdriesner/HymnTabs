@@ -41,7 +41,7 @@ versesVoiceTwo = \lyricmode {
   and thou didst them re- lease.
   When un- to thee they sent their cry,
   to them de- liv- 'rance came:
-  Be- cause the put their trust in thee,
+  Be- cause they put their trust in thee,
   they were not put to shame.
 }
 
