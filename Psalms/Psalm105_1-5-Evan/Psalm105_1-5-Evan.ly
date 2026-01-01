@@ -10,9 +10,9 @@
   subtitle = "(tune: Evan - Capo 1)"
   instrument = "Voice"
   composer = "Traditional"
-  arranger = "Transposed. Stefan Driesner - Aug 2024"
+  arranger = "Transposed. Stefan Driesner - Jan 2026"
   meter = ""
-  copyright = "Copyright 2024 - All Rights Reserved"
+  copyright = "Copyright 2026 - All Rights Reserved"
 }
 
 global = {
@@ -67,8 +67,8 @@ SAVoice = \relative c {
       <c   ef >4 <c   af'>4 <c   c'>2  < c  af'>2 | <ef  bf'>1                        <ef  df'>2 |
       <ef  c '>4 <df  bf'>4 <c  af'>2  <ef  bf'>2 | <ef  c '>4 <ef  af >4 <df   f >2  <bf  ef >2 |
       <c   ef >4 <c   af'>4 <ef c '>2  <df  bf'>2 | <c   af'>1
-      r2
     }
+    r2
   }
   <df  af' >1. <c  af' >1.
   \bar "|."
@@ -87,8 +87,8 @@ TBVoice = \relative c {
       <af  af'>4 <    af'>4 <f   af >2  <f   af >2 | <ef  g  >1                       <g   bf >2 |
       <    af >4 <ef  g  >4 <f   af >2  <ef  g  >2 | <    af >4 <c , af'>4 <df  af'>2 <ef  g  >2 |
       <af, af'>4 <f ' af >4 <ef  af >2  <ef  g  >2 | <af, af'>1
-      r2
     }
+    r2
   }
   <df  f  >1. <af  ef' >1.
   \bar "|."
@@ -96,7 +96,7 @@ TBVoice = \relative c {
 
 Chords = \new ChordNames {
   \chordmode {
-    r1 <g>2 <g>1. <c>1. <g>1. <d>1. <g>1. <c>1 <g>2 <g>1 <d>2 <g>1.
+    r1 <af>2 <af>1. <df>1. <af>1. <ef>1. <af>1. <df>1 <af>2 <af>1 <ef>2 <af>1. <df>1. <af>1.
   }
 }
 
@@ -129,13 +129,17 @@ TBVoicePart = \new Staff \with {
   }
 }
 
-%\markup {
-%  \fill-line {
-%    {
-%      \column {
-%        \left-align {
-%        }
-%      }
-%    }
-%  }
-%}
+\markup {
+  \fill-line {
+    {
+      \column {
+        \left-align {
+	" Guitar w/Capo 1:"
+	" Ab   => G"
+	" Db   => C"
+	" Eb   => D"
+        }
+      }
+    }
+  }
+}
