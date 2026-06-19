@@ -6,7 +6,7 @@
 
 \header {
   dedication = "For Covenant Community Church and the Glory of God"
-  title = "Psalm 34:1-7 - The Psalms of David in Metre, pg 59"
+  title = "Psalm 34:1-7 - The Psalms of David in Metre, pg 48-49"
   subtitle = "(tune: Evan - capo 1)"
   instrument = "Voice"
   composer = "Traditional"
