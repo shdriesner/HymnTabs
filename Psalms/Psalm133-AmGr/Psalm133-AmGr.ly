@@ -10,9 +10,9 @@
   subtitle = "(tune: Amazing Grace - Capo 3)"
   instrument = "Voice"
   composer = "Traditional"
-  arranger = "Transposed. Stefan Driesner - September 2024"
+  arranger = "Transposed. Stefan Driesner - October 2026"
   meter = ""
-  copyright = "Copyright 2024 - All Rights Reserved"
+  copyright = "Copyright 2026 - All Rights Reserved"
 }
 
 global = {
@@ -88,11 +88,11 @@ TBVoice = \relative {
 
 Chords = \new ChordNames {
   \chordmode {
-    r2 <d>4 <d>2. <d>2. <g>2. <d>2.
-    <d>2. <d>2. <a>2. <a>2.
-    <d>2. <d>2. <g>2. <d>2.
-    b2.:m <a>2. <d>2. <d>2
-    r4 <g>2. <d>2.
+    r2 <f>4 <f>2. <f>2. <bf>2. <f>2.
+    <f>2. <f>2. <c>2. <c>2.
+    <f>2. <f>2. <bf>2. <f>2.
+    d2.:m <c>2. <f>2. <f>2
+    r4 <bf>2. <f>2.
   }
 }
 
@@ -124,13 +124,18 @@ TBVoicePart = \new Staff \with {
   }
 }
 
-%\markup {
-%  \fill-line {
-%    {
-%      \column {
-%        \left-align {
-%        }
-%      }
-%    }
-%  }
-%}
+\markup {
+  \fill-line {
+    {
+      \column {
+        \left-align {
+	" Guitar w/Capo 3:"
+	" F    => D"
+	" Bb  => G"
+	" C    => A"
+	" Dm => Bm"
+        }
+      }
+    }
+  }
+}
